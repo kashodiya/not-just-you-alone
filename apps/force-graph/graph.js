@@ -529,6 +529,7 @@ function showDetail(node) {
       break;
 
     case 'insight':
+      html += `<div class="detail-section"><img src="../../assets/illustrations/${node.id}.png" alt="${node.label}" style="width:100%;border-radius:8px;margin-bottom:8px" onerror="this.style.display='none'" /></div>`;
       html += section('Core Idea', d.coreIdea);
       html += section('Explanation', d.explanation);
       html += section('Reframe', `<blockquote>${d.reframe}</blockquote>`);

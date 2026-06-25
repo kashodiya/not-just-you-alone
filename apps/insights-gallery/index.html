@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Not Just You Alone — Insights</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .header h1 {
+      font-size: 2rem;
+      color: #48dbfb;
+      margin-bottom: 8px;
+    }
+
+    .header p {
+      color: #888;
+      font-size: 1rem;
+      max-width: 500px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+
+    .header a {
+      color: #e94560;
+      text-decoration: none;
+    }
+
+    .header a:hover {
+      text-decoration: underline;
+    }
+
+    .gallery {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 48px;
+    }
+
+    .card {
+      background: #16213e;
+      border: 1px solid #0f3460;
+      border-radius: 16px;
+      overflow: hidden;
+      transition: border-color 0.3s;
+    }
+
+    .card:hover {
+      border-color: #48dbfb;
+    }
+
+    .card img {
+      width: 100%;
+      display: block;
+    }
+
+    .card-body {
+      padding: 28px 32px;
+    }
+
+    .card-title {
+      font-size: 1.3rem;
+      color: #48dbfb;
+      margin-bottom: 16px;
+      font-weight: 600;
+    }
+
+    .card-text {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: #ccc;
+      margin-bottom: 20px;
+    }
+
+    .card-quote {
+      border-left: 3px solid #e94560;
+      padding-left: 16px;
+      font-style: italic;
+      color: #aaa;
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    .card-origin {
+      margin-top: 16px;
+      font-size: 0.75rem;
+      color: #666;
+    }
+
+    @media (max-width: 600px) {
+      .card-body {
+        padding: 20px;
+      }
+
+      .card-title {
+        font-size: 1.1rem;
+      }
+
+      .header h1 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>12 Things You Should Know</h1>
+    <p>These aren't opinions. They're patterns — visible once you know where to look. None of this is your fault. All of it is worth understanding.</p>
+    <br>
+    <a href="../../index.html">← Back home</a>
+  </div>
+
+  <div class="gallery" id="gallery"></div>
+
+  <script src="gallery.js"></script>
+</body>
+</html>
