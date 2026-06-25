@@ -1,0 +1,839 @@
+[
+  {
+    "id": "cause-smartphone-revolution",
+    "categoryId": "cat-technological",
+    "title": "The Smartphone Revolution",
+    "summary": "After 2012, the internet stopped being a place you visit and became the place you live. Social development moved from playgrounds to screens.",
+    "explanation": "Before smartphones became universal, the internet was something you sat down at a desk to use — then you returned to physical life. After 2012, young people grew up with the internet as their primary environment. Every moment became an opportunity for self-presentation. Boredom — which once forced creativity and social initiative — was eliminated. The default state shifted from being with others in shared space to being alone with a device.",
+    "metaphor": {
+      "text": "The difference between visiting a swimming pool and living underwater",
+      "illustrationHint": "person submerged in glowing water made of notifications and app icons"
+    },
+    "symptoms": [
+      "symptom-lonely-but-connected",
+      "symptom-cant-tolerate-boredom",
+      "symptom-nothing-feels-real",
+      "symptom-avoiding-difficulty"
+    ],
+    "relatedCauses": [
+      "cause-social-media-architecture",
+      "cause-algorithmic-manipulation",
+      "cause-dopamine-dysregulation",
+      "cause-ai-companionship"
+    ],
+    "relatedInsights": [
+      "insight-attention-foundation",
+      "insight-friction-removal",
+      "insight-loneliness-epidemic"
+    ],
+    "actionPointers": [
+      "action-digital-discipline",
+      "action-phone-free-meals",
+      "action-discomfort-tolerance",
+      "action-deep-attention"
+    ],
+    "adjacentCrises": [
+      "crisis-attention",
+      "crisis-neuroscience-connection"
+    ]
+  },
+  {
+    "id": "cause-social-media-architecture",
+    "categoryId": "cat-technological",
+    "title": "Social Media's Architecture of Self-Focus",
+    "summary": "Social media isn't neutral. It's designed with profiles, metrics, feeds, and algorithms that train you to perform, compare, and measure your worth daily.",
+    "explanation": "Social media is built on specific architectural choices: the profile (you must construct a public self), the metric (likes quantify your worth), the feed (infinite comparison), the algorithm (outrage gets amplified), and the exit button (escape discomfort instantly). Thousands of times per day, you're trained to perform, measure yourself, compare, and avoid friction.",
+    "metaphor": {
+      "text": "A stage where the audience is invisible, infinite, and always scoring you",
+      "illustrationHint": "person on a lit stage with floating numbers (likes, hearts) instead of faces in the audience"
+    },
+    "symptoms": [
+      "symptom-everything-feels-performative",
+      "symptom-comparison-spiral",
+      "symptom-lonely-but-connected",
+      "symptom-dont-know-who-i-am"
+    ],
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-algorithmic-manipulation",
+      "cause-personal-brand",
+      "cause-identity-without-mirrors",
+      "cause-liquid-self"
+    ],
+    "relatedInsights": [
+      "insight-market-colonized-self",
+      "insight-attention-foundation",
+      "insight-loneliness-epidemic",
+      "insight-liquid-self"
+    ],
+    "actionPointers": [
+      "action-digital-discipline",
+      "action-seek-obligations"
+    ],
+    "adjacentCrises": [
+      "crisis-attention"
+    ]
+  },
+  {
+    "id": "cause-algorithmic-manipulation",
+    "categoryId": "cat-technological",
+    "title": "Algorithmic Manipulation of Reality",
+    "summary": "Algorithms create a personalized bubble that confirms your existing beliefs, eliminates friction, and makes shared reality impossible.",
+    "explanation": "An algorithm learns what you click, watch, and engage with — then shows you more of the same to keep you on the platform longer. The result is a filter bubble: a personalized reality that confirms your preferences. You never encounter genuine challenge or otherness. Your worldview feels like truth because everything confirms it. Compromise feels like betrayal. Community requires shared reality — algorithms destroy it.",
+    "metaphor": {
+      "text": "Living in a hall of mirrors that only shows you what you already believe",
+      "illustrationHint": "tunnel of mirrors each reflecting the same face back, no windows to outside"
+    },
+    "symptoms": [
+      "symptom-distrust-everything",
+      "symptom-cant-tolerate-boredom",
+      "symptom-comparison-spiral"
+    ],
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-social-media-architecture",
+      "cause-dopamine-dysregulation"
+    ],
+    "relatedInsights": [
+      "insight-attention-foundation",
+      "insight-friction-removal"
+    ],
+    "actionPointers": [
+      "action-digital-discipline",
+      "action-discomfort-tolerance"
+    ],
+    "adjacentCrises": [
+      "crisis-attention",
+      "crisis-trust"
+    ]
+  },
+  {
+    "id": "cause-ai-companionship",
+    "categoryId": "cat-technological",
+    "title": "The Coming Age of AI Companionship",
+    "summary": "AI companions offer perfect patience, zero demands, and total availability — making real human relationships feel unbearably frustrating by comparison.",
+    "explanation": "AI chatbots and virtual companions offer unconditional availability, infinite patience, complete customization, and no demands. Real relationships are valuable precisely because they're imperfect and demanding — a friend who challenges you, a partner with their own needs. AI trains people to expect relationships without cost, making genuine human connection feel like an unreasonable burden.",
+    "metaphor": {
+      "text": "A perfect friend who never needs anything — and therefore can never truly know you",
+      "illustrationHint": "warm glowing screen-face next to a real person's face that looks tired and imperfect but alive"
+    },
+    "symptoms": [
+      "symptom-relationships-feel-transactional",
+      "symptom-avoiding-difficulty",
+      "symptom-lonely-but-connected"
+    ],
+    "relatedCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-smartphone-revolution"
+    ],
+    "relatedInsights": [
+      "insight-friction-removal",
+      "insight-loneliness-epidemic"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-discomfort-tolerance"
+    ],
+    "adjacentCrises": [
+      "crisis-neuroscience-connection"
+    ]
+  },
+  {
+    "id": "cause-consumer-capitalism-atomized",
+    "categoryId": "cat-economic",
+    "title": "Consumer Capitalism Requires Isolated Individuals",
+    "summary": "The system works better when people are alone. Isolated individuals consume more — more housing, more entertainment, more products to fill the void.",
+    "explanation": "A family sharing one washing machine is one sale; five individuals living alone is five sales. A community that entertains itself doesn't spend money; isolated people buy entertainment. A person rooted in tradition has stable desires; an anxious, isolated person is a better consumer. The system doesn't conspire consciously — but it structurally rewards and produces isolation.",
+    "metaphor": {
+      "text": "A machine that runs better the more you break people apart",
+      "illustrationHint": "conveyor belt turning connected people into separate shopping carts"
+    },
+    "symptoms": [
+      "symptom-no-community",
+      "symptom-lonely-but-connected",
+      "symptom-self-focus-guilt"
+    ],
+    "relatedCauses": [
+      "cause-gig-economy",
+      "cause-geographic-mobility",
+      "cause-destruction-third-places",
+      "cause-economic-insecurity",
+      "cause-institutional-trust-decline",
+      "cause-market-colonization"
+    ],
+    "relatedInsights": [
+      "insight-privatization",
+      "insight-market-colonized-self",
+      "insight-loneliness-epidemic"
+    ],
+    "actionPointers": [
+      "action-shared-projects",
+      "action-reduce-convenience"
+    ],
+    "adjacentCrises": [
+      "crisis-metacrisis",
+      "crisis-trust",
+      "crisis-architecture-environment"
+    ]
+  },
+  {
+    "id": "cause-gig-economy",
+    "categoryId": "cat-economic",
+    "title": "The Gig Economy and the Entrepreneurial Self",
+    "summary": "Stable employment gave identity, community, and security. The gig economy replaces all of that with permanent audition — you are a brand of one.",
+    "explanation": "Instead of long-term employment that provided colleagues, shared struggle, and identity, people now work short-term contracts, freelance, and hustle across multiple gigs. No workplace community, no collective bargaining, no stable role. Success or failure becomes entirely personal — no systemic explanation allowed. Life is a perpetual audition rather than a settled belonging.",
+    "metaphor": {
+      "text": "Always auditioning, never cast",
+      "illustrationHint": "person juggling multiple hats (delivery, design, content) alone on a tightrope"
+    },
+    "symptoms": [
+      "symptom-exhausted-but-feel-lazy",
+      "symptom-cant-commit",
+      "symptom-self-focus-guilt"
+    ],
+    "relatedCauses": [
+      "cause-personal-brand",
+      "cause-economic-insecurity",
+      "cause-consumer-capitalism-atomized",
+      "cause-achievement-society",
+      "cause-market-colonization"
+    ],
+    "relatedInsights": [
+      "insight-achievement-burnout",
+      "insight-market-colonized-self"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-seek-obligations"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning"
+    ]
+  },
+  {
+    "id": "cause-personal-brand",
+    "categoryId": "cat-economic",
+    "title": "The 'Personal Brand' Imperative",
+    "summary": "You're told to treat your entire identity as a product to be marketed. Relationships become networking. Authenticity becomes performance.",
+    "explanation": "Young people are told by schools, career advisors, and culture that they must build a 'personal brand.' This means constant self-differentiation, strategic self-presentation at all times, viewing experiences as 'content,' and relationships as networking valued for utility. The deepest paradox: being authentic becomes a performance for an audience.",
+    "metaphor": {
+      "text": "Turning yourself into a product — and then wondering why you feel empty inside the packaging",
+      "illustrationHint": "person shrink-wrapped like a product on a shelf with a barcode"
+    },
+    "symptoms": [
+      "symptom-everything-feels-performative",
+      "symptom-exhausted-but-feel-lazy",
+      "symptom-dont-know-who-i-am",
+      "symptom-comparison-spiral"
+    ],
+    "relatedCauses": [
+      "cause-social-media-architecture",
+      "cause-gig-economy",
+      "cause-expressive-individualism",
+      "cause-achievement-society",
+      "cause-market-colonization"
+    ],
+    "relatedInsights": [
+      "insight-market-colonized-self",
+      "insight-achievement-burnout"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-digital-discipline"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning"
+    ]
+  },
+  {
+    "id": "cause-economic-insecurity",
+    "categoryId": "cat-economic",
+    "title": "Economic Insecurity Discourages Commitment",
+    "summary": "When housing is unaffordable, employment is precarious, and debt is crushing — self-focus becomes survival behavior, not selfishness.",
+    "explanation": "When economic conditions are unstable, long-term commitment becomes genuinely risky. Marriage, children, geographic roots — all delayed or foregone because financial stability keeps receding. The rational response to instability IS self-focus. Much of what appears as selfishness is actually survival behavior in a system that provides no safety net.",
+    "metaphor": {
+      "text": "Hard to build a house when the ground keeps shifting",
+      "illustrationHint": "person trying to lay foundation bricks on sand that's moving"
+    },
+    "symptoms": [
+      "symptom-cant-commit",
+      "symptom-self-focus-guilt",
+      "symptom-no-community"
+    ],
+    "relatedCauses": [
+      "cause-gig-economy",
+      "cause-geographic-mobility",
+      "cause-consumer-capitalism-atomized",
+      "cause-paradox-of-choice"
+    ],
+    "relatedInsights": [
+      "insight-self-centeredness-self-defense",
+      "insight-privatization",
+      "insight-paradox-of-choice"
+    ],
+    "actionPointers": [
+      "action-shared-projects",
+      "action-seek-obligations"
+    ],
+    "adjacentCrises": [
+      "crisis-demographic-winter",
+      "crisis-metacrisis"
+    ]
+  },
+  {
+    "id": "cause-self-esteem-movement",
+    "categoryId": "cat-cultural",
+    "title": "The Self-Esteem Movement",
+    "summary": "Decades of 'you're special' without earned competence produced adults who expect validation but crumble at setbacks.",
+    "explanation": "From the 1980s onward, education systems prioritized children's self-esteem above all. Every child got trophies regardless of performance, criticism was minimized, feelings were elevated above achievement. The intended effect was confidence. The actual effect: a generation that confuses self-esteem with competence, expects validation without earning it, and experiences normal setbacks as existential threats.",
+    "metaphor": {
+      "text": "Building a house on praise instead of foundations",
+      "illustrationHint": "trophy standing on clouds — impressive until you step on it"
+    },
+    "symptoms": [
+      "symptom-freedom-feels-heavy",
+      "symptom-avoiding-difficulty",
+      "symptom-exhausted-but-feel-lazy"
+    ],
+    "relatedCauses": [
+      "cause-overprotection",
+      "cause-expressive-individualism"
+    ],
+    "relatedInsights": [
+      "insight-freedom-compulsory",
+      "insight-friction-removal",
+      "insight-achievement-burnout"
+    ],
+    "actionPointers": [
+      "action-discomfort-tolerance",
+      "action-voluntary-commitment"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning"
+    ]
+  },
+  {
+    "id": "cause-collapse-shared-narratives",
+    "categoryId": "cat-cultural",
+    "title": "The Collapse of Shared Narratives",
+    "summary": "Religious, national, progress, and family narratives have all weakened simultaneously — leaving each person to generate meaning from scratch.",
+    "explanation": "A shared narrative is a story a society tells about who it is and what life is for. Religious narratives, national identity, the promise that each generation will do better, family legacy — all have weakened at once. Religion has declined, national identity is fractured, economic progress has stalled, family structures have diversified without replacement stories. Each individual must now be their own priest, their own nation, their own meaning-maker. That weight is crushing.",
+    "metaphor": {
+      "text": "The scaffolding was removed before the building was finished",
+      "illustrationHint": "half-built structure with scaffolding falling away and a person standing inside holding it up alone"
+    },
+    "symptoms": [
+      "symptom-purposeless",
+      "symptom-dont-know-who-i-am",
+      "symptom-nothing-feels-real",
+      "symptom-distrust-everything",
+      "symptom-freedom-feels-heavy"
+    ],
+    "relatedCauses": [
+      "cause-expressive-individualism",
+      "cause-death-of-duty",
+      "cause-institutional-trust-decline",
+      "cause-identity-without-mirrors"
+    ],
+    "relatedInsights": [
+      "insight-freedom-compulsory",
+      "insight-anomic-gap",
+      "insight-sacredness-disappeared"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-rhythms-rituals"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning",
+      "crisis-religion-spirituality",
+      "crisis-masculinity-femininity",
+      "crisis-ritual",
+      "crisis-wisdom-traditions"
+    ]
+  },
+  {
+    "id": "cause-therapy-culture-boundaries",
+    "categoryId": "cat-cultural",
+    "title": "Therapy Culture and Over-Applied Boundaries",
+    "summary": "Therapeutic language — 'toxic,' 'boundaries,' 'my peace' — when over-applied to all of life, can justify avoiding all obligation and cutting off anyone who causes discomfort.",
+    "explanation": "Therapy is valuable and boundaries are real. But when therapeutic self-protection becomes the dominant framework for ALL relationships, it can justify cutting off anyone causing discomfort, frame all sacrifice as 'people-pleasing,' make commitment seem pathological, and create people who are well-protected but profoundly alone. The language of healing becomes a wall against connection.",
+    "metaphor": {
+      "text": "A shield so thick you can't feel the people trying to reach you",
+      "illustrationHint": "person inside a bubble labeled 'my peace' — safe but alone, hands pressing from outside can't reach"
+    },
+    "symptoms": [
+      "symptom-relationships-feel-transactional",
+      "symptom-no-community",
+      "symptom-avoiding-difficulty"
+    ],
+    "relatedCauses": [
+      "cause-expressive-individualism",
+      "cause-overprotection",
+      "cause-death-of-duty"
+    ],
+    "relatedInsights": [
+      "insight-friction-removal",
+      "insight-self-centeredness-self-defense"
+    ],
+    "actionPointers": [
+      "action-normalize-repair",
+      "action-voluntary-commitment"
+    ],
+    "adjacentCrises": [
+      "crisis-commitment-philosophy"
+    ]
+  },
+  {
+    "id": "cause-death-of-duty",
+    "categoryId": "cat-cultural",
+    "title": "The Death of Duty as a Virtue",
+    "summary": "Authenticity, freedom, and happiness replaced duty in the cultural hierarchy. Nothing binds people together except momentary desire.",
+    "explanation": "Historically, duty to family, community, and something larger was among the highest virtues. This has inverted: authenticity, freedom, and happiness now rank above duty, which is seen as oppressive or 'people-pleasing.' The inversion isn't entirely wrong — duty was genuinely used to oppress people. But its complete abandonment leaves nothing binding people together except what they feel like doing in the moment.",
+    "metaphor": {
+      "text": "Cutting the ropes that held the ship to shore — freedom to drift, but nowhere to anchor",
+      "illustrationHint": "boat floating free on open water, cut rope dangling, shore getting smaller"
+    },
+    "symptoms": [
+      "symptom-purposeless",
+      "symptom-cant-commit",
+      "symptom-no-community"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-expressive-individualism",
+      "cause-therapy-culture-boundaries"
+    ],
+    "relatedInsights": [
+      "insight-sacredness-disappeared",
+      "insight-anomic-gap"
+    ],
+    "actionPointers": [
+      "action-seek-obligations",
+      "action-voluntary-commitment"
+    ],
+    "adjacentCrises": [
+      "crisis-commitment-philosophy",
+      "crisis-meaning",
+      "crisis-religion-spirituality",
+      "crisis-ritual"
+    ]
+  },
+  {
+    "id": "cause-expressive-individualism",
+    "categoryId": "cat-cultural",
+    "title": "The Philosophy of Expressive Individualism",
+    "summary": "The dominant modern belief: the deepest truth is within you, self-expression is life's purpose, and any constraint on it is oppression.",
+    "explanation": "Expressive individualism holds that truth is found within, life's purpose is expressing your authentic self, society exists to enable this, and any external authority (tradition, religion, community, family) making claims on you is oppression. It emerged from Romanticism, existentialism, counterculture, neoliberalism, and social media. At scale, if everyone is sole authority on their own truth, there's no basis for shared morality, binding commitments, or resolving disagreements.",
+    "metaphor": {
+      "text": "Seven billion people, each the sole citizen of their own country of one",
+      "illustrationHint": "billions of tiny islands, each with one flag, no bridges between them"
+    },
+    "symptoms": [
+      "symptom-purposeless",
+      "symptom-dont-know-who-i-am",
+      "symptom-freedom-feels-heavy",
+      "symptom-everything-feels-performative"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-death-of-duty",
+      "cause-personal-brand",
+      "cause-self-esteem-movement",
+      "cause-therapy-culture-boundaries",
+      "cause-achievement-society",
+      "cause-liquid-self",
+      "cause-paradox-of-choice"
+    ],
+    "relatedInsights": [
+      "insight-freedom-compulsory",
+      "insight-liquid-self",
+      "insight-sacredness-disappeared",
+      "insight-anomic-gap"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-seek-obligations",
+      "action-rhythms-rituals"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning",
+      "crisis-commitment-philosophy",
+      "crisis-masculinity-femininity",
+      "crisis-demographic-winter"
+    ]
+  },
+  {
+    "id": "cause-destruction-third-places",
+    "categoryId": "cat-social",
+    "title": "The Destruction of Third Places",
+    "summary": "The village square, local pub, park bench, community center — the informal gathering spaces where community formed organically — have largely vanished.",
+    "explanation": "Your first place is home, second is work. Third places are communal spaces for informal, regular, free gathering: the café, barbershop, park, library, community center. Commercial spaces replaced them (you must buy something to sit), suburban design eliminated walkability, digital spaces replaced physical ones, and economic pressure eliminated free time. Without third places, all connection requires deliberate effort — so only the most motivated connect at all.",
+    "metaphor": {
+      "text": "The town square became a parking lot",
+      "illustrationHint": "warm café or park slowly fading into a grey parking lot with no people"
+    },
+    "symptoms": [
+      "symptom-no-community",
+      "symptom-lonely-but-connected"
+    ],
+    "relatedCauses": [
+      "cause-consumer-capitalism-atomized",
+      "cause-geographic-mobility",
+      "cause-age-segregation"
+    ],
+    "relatedInsights": [
+      "insight-loneliness-epidemic",
+      "insight-privatization"
+    ],
+    "actionPointers": [
+      "action-find-third-place",
+      "action-shared-projects"
+    ],
+    "adjacentCrises": [
+      "crisis-architecture-environment",
+      "crisis-neuroscience-connection"
+    ]
+  },
+  {
+    "id": "cause-age-segregation",
+    "categoryId": "cat-social",
+    "title": "Age Segregation",
+    "summary": "Modern society separates people by age more than any previous civilization — eliminating cross-generational wisdom, role models, and mutual obligation.",
+    "explanation": "Children with children, teenagers with teenagers, working adults with working adults, elderly with elderly. Each generation exists in a bubble, developing values in an echo chamber of peers. What's eliminated: role models across life stages, transmission of wisdom, mutual obligation between generations, and the grounding experience of seeing your future and past selves in others.",
+    "metaphor": {
+      "text": "A river split into separate pools — each one stagnant without the flow between",
+      "illustrationHint": "river divided by walls into separate pools, each containing people of only one age"
+    },
+    "symptoms": [
+      "symptom-no-community",
+      "symptom-dont-know-who-i-am"
+    ],
+    "relatedCauses": [
+      "cause-destruction-third-places",
+      "cause-geographic-mobility"
+    ],
+    "relatedInsights": [
+      "insight-privatization",
+      "insight-anomic-gap"
+    ],
+    "actionPointers": [
+      "action-intergenerational-connection",
+      "action-seek-obligations"
+    ],
+    "adjacentCrises": [
+      "crisis-wisdom-traditions"
+    ]
+  },
+  {
+    "id": "cause-geographic-mobility",
+    "categoryId": "cat-social",
+    "title": "Geographic Mobility and Rootlessness",
+    "summary": "Modern economies require people to move — for education, jobs, affordability. What's lost: deep friendships, identity from place, investment in community.",
+    "explanation": "You leave for education at 18, move for jobs, get pushed out by cost, move again. The average person moves many times in a lifetime. What's lost: multi-generational relationships, knowledge of place, investment in community (why improve somewhere you'll leave?), deep friendships that require years of proximity, and the simple identity of belonging somewhere specific.",
+    "metaphor": {
+      "text": "Roots can't grow if you keep replanting",
+      "illustrationHint": "small tree being uprooted and replanted repeatedly, each time smaller roots"
+    },
+    "symptoms": [
+      "symptom-no-community",
+      "symptom-cant-commit",
+      "symptom-lonely-but-connected",
+      "symptom-relationships-feel-transactional"
+    ],
+    "relatedCauses": [
+      "cause-economic-insecurity",
+      "cause-destruction-third-places",
+      "cause-consumer-capitalism-atomized",
+      "cause-age-segregation",
+      "cause-identity-without-mirrors"
+    ],
+    "relatedInsights": [
+      "insight-loneliness-epidemic",
+      "insight-privatization"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-find-third-place"
+    ],
+    "adjacentCrises": [
+      "crisis-architecture-environment"
+    ]
+  },
+  {
+    "id": "cause-institutional-trust-decline",
+    "categoryId": "cat-social",
+    "title": "The Decline of Institutional Trust",
+    "summary": "Religion covered up abuse, politics served the wealthy, finance crashed the economy, education loaded you with debt. Trusting only yourself is a rational response — with devastating side effects.",
+    "explanation": "Young people have watched religious institutions cover up abuse, political institutions lie and serve wealth, financial institutions crash economies, educational institutions load them with unpayable debt, and media prioritize outrage over truth. The rational response is to trust nothing outside yourself. The unintended consequence: without trusted external frameworks, the self becomes the only reference point — but the self isn't stable enough to bear that weight alone.",
+    "metaphor": {
+      "text": "Every pillar you might lean on has cracks showing — so you stand alone",
+      "illustrationHint": "cracked institutional pillars (church, bank, capitol, university) with a person standing alone in the middle"
+    },
+    "symptoms": [
+      "symptom-distrust-everything",
+      "symptom-self-focus-guilt",
+      "symptom-no-community"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-consumer-capitalism-atomized"
+    ],
+    "relatedInsights": [
+      "insight-self-centeredness-self-defense",
+      "insight-anomic-gap"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-shared-projects"
+    ],
+    "adjacentCrises": [
+      "crisis-trust"
+    ]
+  },
+  {
+    "id": "cause-overprotection",
+    "categoryId": "cat-psychological",
+    "title": "Overprotection in Childhood",
+    "summary": "Free play, risk, unsupervised time, and natural conflict were systematically eliminated from childhood — preventing the development of resilience, self-efficacy, and social skills.",
+    "explanation": "Free-range play has decreased dramatically since the 1970s. Helicopter and snowplow parenting are normalized. Risk avoidance is prioritized over skill-building. What this prevents: risk assessment, conflict resolution, self-efficacy, frustration tolerance, and social negotiation. The paradox: overprotected children become adults who feel less capable — more anxious, more self-focused, and more likely to avoid the discomforts of genuine community.",
+    "metaphor": {
+      "text": "Muscles that were never exercised can't carry weight when it arrives",
+      "illustrationHint": "person in bubble wrap trying to climb a hill — protected but unable to grip"
+    },
+    "symptoms": [
+      "symptom-avoiding-difficulty",
+      "symptom-self-focus-guilt",
+      "symptom-cant-tolerate-boredom"
+    ],
+    "relatedCauses": [
+      "cause-self-esteem-movement",
+      "cause-dopamine-dysregulation",
+      "cause-therapy-culture-boundaries"
+    ],
+    "relatedInsights": [
+      "insight-friction-removal",
+      "insight-self-centeredness-self-defense"
+    ],
+    "actionPointers": [
+      "action-discomfort-tolerance",
+      "action-voluntary-commitment",
+      "action-normalize-repair"
+    ],
+    "adjacentCrises": [
+      "crisis-play-leisure"
+    ]
+  },
+  {
+    "id": "cause-identity-without-mirrors",
+    "categoryId": "cat-psychological",
+    "title": "Identity Formation Without Stable Mirrors",
+    "summary": "Healthy identity needs stable relationships, clear roles, and consistent narratives reflecting back who you are. All of these are now unstable or absent.",
+    "explanation": "Erik Erikson showed that identity develops through stable relationships that reflect who you are, roles that give you a place, gradual independence against a secure base, and narratives that provide templates. Now: relationships are unstable, roles are unclear, independence is offered without secure base, and narratives are multiple and contradictory. Identity becomes a perpetual construction project — never finished, endlessly exhausting.",
+    "metaphor": {
+      "text": "Trying to see your reflection in water that won't stop rippling",
+      "illustrationHint": "person looking into disturbed water — face fragmented and shifting"
+    },
+    "symptoms": [
+      "symptom-dont-know-who-i-am",
+      "symptom-everything-feels-performative",
+      "symptom-freedom-feels-heavy"
+    ],
+    "relatedCauses": [
+      "cause-geographic-mobility",
+      "cause-social-media-architecture",
+      "cause-collapse-shared-narratives",
+      "cause-liquid-self"
+    ],
+    "relatedInsights": [
+      "insight-liquid-self",
+      "insight-freedom-compulsory"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-rhythms-rituals",
+      "action-seek-obligations"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning",
+      "crisis-masculinity-femininity"
+    ]
+  },
+  {
+    "id": "cause-dopamine-dysregulation",
+    "categoryId": "cat-psychological",
+    "title": "Dopamine Dysregulation",
+    "summary": "Constant digital stimulation recalibrates your brain's reward system — making ordinary life (slow conversations, patient work, quiet moments) feel intolerably boring.",
+    "explanation": "Dopamine is released when you anticipate or receive reward. Social media, notifications, and infinite scroll provide constant small hits. The brain adapts — requiring MORE stimulation to feel the same pleasure. Ordinary life becomes insufferably boring. Relationships requiring patience, delayed gratification, and sustained attention feel punishing. Self-serving behavior offers quicker dopamine returns than other-serving behavior.",
+    "metaphor": {
+      "text": "A thermostat that's been turned so high that normal warmth feels cold",
+      "illustrationHint": "thermometer maxed out while person shivers in a normally warm room"
+    },
+    "symptoms": [
+      "symptom-cant-tolerate-boredom",
+      "symptom-avoiding-difficulty",
+      "symptom-nothing-feels-real",
+      "symptom-relationships-feel-transactional"
+    ],
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-algorithmic-manipulation",
+      "cause-overprotection",
+      "cause-ai-companionship"
+    ],
+    "relatedInsights": [
+      "insight-attention-foundation",
+      "insight-friction-removal"
+    ],
+    "actionPointers": [
+      "action-discomfort-tolerance",
+      "action-deep-attention",
+      "action-digital-discipline",
+      "action-phone-free-meals"
+    ],
+    "adjacentCrises": [
+      "crisis-attention",
+      "crisis-neuroscience-connection",
+      "crisis-play-leisure"
+    ]
+  },
+  {
+    "id": "cause-achievement-society",
+    "categoryId": "cat-cultural",
+    "title": "The Achievement Society",
+    "summary": "External authority was replaced by self-exploitation. 'You can do anything!' sounds liberating — until you realize there's no end point, no one to blame for failure, and no permission to rest.",
+    "explanation": "In the old disciplinary society, people were controlled by external authority: 'You MUST or be punished.' Today's achievement society removes external control: 'You CAN do anything!' This is more oppressive because there's no one to blame for failure except yourself, no end point, rest feels like wasted potential, and you become your own slave-driver from whom you can never escape. The result isn't freedom — it's burnout.",
+    "metaphor": {
+      "text": "Being both the horse and the rider with the whip — and you can never dismount",
+      "illustrationHint": "person running on a treadmill holding their own whip, 'YOU CAN DO MORE' sign ahead"
+    },
+    "symptoms": [
+      "symptom-exhausted-but-feel-lazy",
+      "symptom-purposeless",
+      "symptom-self-focus-guilt"
+    ],
+    "relatedCauses": [
+      "cause-personal-brand",
+      "cause-gig-economy",
+      "cause-expressive-individualism"
+    ],
+    "relatedInsights": [
+      "insight-achievement-burnout",
+      "insight-market-colonized-self",
+      "insight-freedom-compulsory"
+    ],
+    "actionPointers": [
+      "action-seek-obligations",
+      "action-discomfort-tolerance",
+      "action-rhythms-rituals"
+    ],
+    "adjacentCrises": [
+      "crisis-meaning",
+      "crisis-play-leisure"
+    ]
+  },
+  {
+    "id": "cause-market-colonization",
+    "categoryId": "cat-cultural",
+    "title": "The Market Has Colonized the Self",
+    "summary": "Market logic — efficiency, optimization, ROI — has invaded relationships, rest, emotions, and identity. When everything is a transaction, nothing is sacred.",
+    "explanation": "Market logic (efficiency, competition, return on investment) has invaded areas where it doesn't belong. Relationships: 'What am I getting from this?' Body: 'How do I optimize?' Rest: 'How do I make leisure productive?' Emotions: 'This feeling isn't serving me.' Identity: 'What's my value proposition?' When everything is a market transaction, nothing is sacred, people become interchangeable, loyalty makes no economic sense, and love becomes cost-benefit analysis.",
+    "metaphor": {
+      "text": "Putting a price tag on things that only have value because they're priceless",
+      "illustrationHint": "price tags hanging from a hug, a sunset, a conversation, a friendship"
+    },
+    "symptoms": [
+      "symptom-relationships-feel-transactional",
+      "symptom-everything-feels-performative",
+      "symptom-exhausted-but-feel-lazy"
+    ],
+    "relatedCauses": [
+      "cause-consumer-capitalism-atomized",
+      "cause-personal-brand",
+      "cause-gig-economy"
+    ],
+    "relatedInsights": [
+      "insight-market-colonized-self",
+      "insight-sacredness-disappeared"
+    ],
+    "actionPointers": [
+      "action-reduce-convenience",
+      "action-rhythms-rituals",
+      "action-shared-projects"
+    ],
+    "adjacentCrises": [
+      "crisis-metacrisis",
+      "crisis-play-leisure"
+    ]
+  },
+  {
+    "id": "cause-liquid-self",
+    "categoryId": "cat-psychological",
+    "title": "The Liquid Self",
+    "summary": "A self with no fixed form — changing shape constantly, flowing toward whatever seems attractive. Unable to be held by others or even by itself.",
+    "explanation": "Zygmunt Bauman's concept: a liquid self changes shape to fit any container, has no fixed core, flows toward momentary attraction, and cannot be grasped. Identity changes frequently, commitments feel oppressive (they assume a stable 'I'), 'I don't know who I am' is pervasive. The deeper problem: commitment requires saying 'I will be here for you then' — but if 'I' changes every few months, that promise feels impossible.",
+    "metaphor": {
+      "text": "Water can't make promises — it just flows where gravity takes it",
+      "illustrationHint": "human shape made of water, flowing and reforming, unable to hold a handshake"
+    },
+    "symptoms": [
+      "symptom-cant-commit",
+      "symptom-dont-know-who-i-am",
+      "symptom-relationships-feel-transactional"
+    ],
+    "relatedCauses": [
+      "cause-identity-without-mirrors",
+      "cause-expressive-individualism",
+      "cause-social-media-architecture",
+      "cause-paradox-of-choice"
+    ],
+    "relatedInsights": [
+      "insight-liquid-self",
+      "insight-freedom-compulsory",
+      "insight-paradox-of-choice"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-rhythms-rituals"
+    ],
+    "adjacentCrises": [
+      "crisis-commitment-philosophy",
+      "crisis-meaning"
+    ]
+  },
+  {
+    "id": "cause-paradox-of-choice",
+    "categoryId": "cat-psychological",
+    "title": "The Paradox of Choice",
+    "summary": "More options don't increase happiness — they decrease it. With infinite options, every choice feels like a loss of all the alternatives.",
+    "explanation": "Barry Schwartz showed: with 3 options you choose and feel satisfied. With 300, you choose and feel anxious (did I pick the best?). With infinite options, you're paralyzed or perpetually dissatisfied. Today's young people face unlimited options for career, location, partner, identity, and belief system. Commitment to anything feels like closing doors. Choosing one partner means 'missing out' on thousands. So people delay, hedge, and end up committed to nothing.",
+    "metaphor": {
+      "text": "Standing in a buffet so vast you starve while trying to decide",
+      "illustrationHint": "person frozen at an infinite buffet, plate empty, overwhelmed"
+    },
+    "symptoms": [
+      "symptom-cant-commit",
+      "symptom-freedom-feels-heavy",
+      "symptom-purposeless",
+      "symptom-relationships-feel-transactional"
+    ],
+    "relatedCauses": [
+      "cause-economic-insecurity",
+      "cause-liquid-self",
+      "cause-expressive-individualism"
+    ],
+    "relatedInsights": [
+      "insight-paradox-of-choice",
+      "insight-freedom-compulsory",
+      "insight-anomic-gap"
+    ],
+    "actionPointers": [
+      "action-voluntary-commitment",
+      "action-discomfort-tolerance"
+    ],
+    "adjacentCrises": [
+      "crisis-commitment-philosophy",
+      "crisis-demographic-winter"
+    ]
+  }
+]

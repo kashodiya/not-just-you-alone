@@ -1,0 +1,244 @@
+[
+  {
+    "id": "action-voluntary-commitment",
+    "level": "individual",
+    "title": "Practice voluntary commitment",
+    "description": "Choose something — a community, a practice, a relationship, a place — and stay with it even when it's uncomfortable. Not forever. But long enough to experience what staying builds.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-paradox-of-choice",
+      "cause-liquid-self",
+      "cause-death-of-duty",
+      "cause-expressive-individualism",
+      "cause-ai-companionship",
+      "cause-gig-economy",
+      "cause-personal-brand",
+      "cause-self-esteem-movement",
+      "cause-collapse-shared-narratives",
+      "cause-therapy-culture-boundaries",
+      "cause-geographic-mobility",
+      "cause-institutional-trust-decline",
+      "cause-overprotection",
+      "cause-identity-without-mirrors"
+    ],
+    "addressesSymptoms": [
+      "symptom-cant-commit",
+      "symptom-purposeless",
+      "symptom-no-community"
+    ],
+    "experiment": "Identify one thing you've been keeping 'optional' — a group, a project, a person. Decide: I'm in this for 3 months, no exit. See what changes when leaving isn't an option."
+  },
+  {
+    "id": "action-digital-discipline",
+    "level": "individual",
+    "title": "Reclaim your attention deliberately",
+    "description": "Not elimination — but boundaries. Create spaces where your attention belongs to you, not to whoever designed the most addictive notification.",
+    "difficulty": "medium",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-smartphone-revolution",
+      "cause-social-media-architecture",
+      "cause-algorithmic-manipulation",
+      "cause-dopamine-dysregulation",
+      "cause-personal-brand"
+    ],
+    "addressesSymptoms": [
+      "symptom-cant-tolerate-boredom",
+      "symptom-everything-feels-performative",
+      "symptom-comparison-spiral"
+    ],
+    "experiment": "Pick one daily window — morning, meals, or the hour before bed — and make it completely screen-free for one week. Notice what happens in the silence."
+  },
+  {
+    "id": "action-discomfort-tolerance",
+    "level": "individual",
+    "title": "Build your discomfort muscle",
+    "description": "Deliberately choose situations that are difficult, boring, or require patience. Not punishment — training. The capacity for difficulty is a muscle that grows with use.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-overprotection",
+      "cause-dopamine-dysregulation",
+      "cause-self-esteem-movement",
+      "cause-algorithmic-manipulation",
+      "cause-smartphone-revolution",
+      "cause-ai-companionship",
+      "cause-achievement-society",
+      "cause-paradox-of-choice"
+    ],
+    "addressesSymptoms": [
+      "symptom-avoiding-difficulty",
+      "symptom-cant-tolerate-boredom"
+    ],
+    "experiment": "This week, do one thing you've been avoiding because it feels uncomfortable — a difficult conversation, a boring task, sitting in silence for 20 minutes. Don't fix the discomfort. Just be in it."
+  },
+  {
+    "id": "action-seek-obligations",
+    "level": "individual",
+    "title": "Accept an obligation",
+    "description": "Paradoxically, accepting obligations creates meaning. Being needed, being expected somewhere, having people count on you — these aren't burdens. They're anchors.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-death-of-duty",
+      "cause-achievement-society",
+      "cause-expressive-individualism",
+      "cause-age-segregation",
+      "cause-social-media-architecture",
+      "cause-gig-economy",
+      "cause-economic-insecurity",
+      "cause-identity-without-mirrors"
+    ],
+    "addressesSymptoms": [
+      "symptom-purposeless",
+      "symptom-self-focus-guilt",
+      "symptom-cant-commit"
+    ],
+    "experiment": "Find one thing where someone would notice if you didn't show up. A weekly volunteer slot, walking a neighbor's dog, joining a group that meets on a schedule. Let yourself be expected."
+  },
+  {
+    "id": "action-phone-free-meals",
+    "level": "individual",
+    "title": "Phone-free meals",
+    "description": "Eating is one of the oldest communal rituals humans have. Reclaim it — even if you're eating alone, removing the phone changes the experience from consumption to presence.",
+    "difficulty": "low",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-smartphone-revolution",
+      "cause-dopamine-dysregulation"
+    ],
+    "addressesSymptoms": [
+      "symptom-cant-tolerate-boredom",
+      "symptom-nothing-feels-real"
+    ],
+    "experiment": "For the next 7 days, put your phone in another room during meals. If eating with others, notice what conversations emerge. If eating alone, notice what it feels like to just... eat."
+  },
+  {
+    "id": "action-deep-attention",
+    "level": "individual",
+    "title": "Practice sustained attention",
+    "description": "Read a long book. Meditate. Have a conversation longer than 10 minutes without checking anything. Practice being fully in one place at one time.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-smartphone-revolution"
+    ],
+    "addressesSymptoms": [
+      "symptom-cant-tolerate-boredom",
+      "symptom-nothing-feels-real"
+    ],
+    "experiment": "Read a physical book for 30 minutes without interruption. When the urge to check your phone comes (it will), notice it, and stay with the book. Track how many days you can sustain this."
+  },
+  {
+    "id": "action-find-third-place",
+    "level": "individual",
+    "title": "Find or create a third place",
+    "description": "A place that isn't home or work where you can simply be present around others. A café, library, park, community garden, maker space — somewhere you go regularly and start seeing familiar faces.",
+    "difficulty": "low",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-destruction-third-places",
+      "cause-geographic-mobility"
+    ],
+    "addressesSymptoms": [
+      "symptom-no-community",
+      "symptom-lonely-but-connected"
+    ],
+    "experiment": "Identify one place within walking distance where you could spend time weekly. Go there three times this month — same day, same time if possible. Don't force conversation. Just be present. See who you start recognizing."
+  },
+  {
+    "id": "action-rhythms-rituals",
+    "level": "relational",
+    "title": "Create rhythms and rituals",
+    "description": "Weekly dinners, seasonal celebrations, regular gatherings — even small ones. Rhythm creates belonging. You don't need a church; you need a pattern.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-expressive-individualism",
+      "cause-identity-without-mirrors",
+      "cause-market-colonization",
+      "cause-liquid-self",
+      "cause-achievement-society"
+    ],
+    "addressesSymptoms": [
+      "symptom-nothing-feels-real",
+      "symptom-no-community",
+      "symptom-purposeless"
+    ],
+    "experiment": "Start one weekly ritual — could be as simple as Sunday morning coffee with one person, or a Wednesday evening walk. Protect it. Don't cancel for convenience. Do it for 6 weeks and notice what builds."
+  },
+  {
+    "id": "action-normalize-repair",
+    "level": "relational",
+    "title": "Practice repair over exit",
+    "description": "When a relationship hits friction, practice staying and repairing rather than cutting off. Apologize. Forgive. Have the awkward conversation. Repair is a skill — and it's how depth is built.",
+    "difficulty": "high",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-therapy-culture-boundaries",
+      "cause-overprotection"
+    ],
+    "addressesSymptoms": [
+      "symptom-relationships-feel-transactional",
+      "symptom-avoiding-difficulty"
+    ],
+    "experiment": "Think of one relationship where tension exists. Instead of avoiding or ending it, initiate one honest conversation this week. Not to 'fix' them — just to say what's true and listen to what's true for them."
+  },
+  {
+    "id": "action-shared-projects",
+    "level": "relational",
+    "title": "Do something together (not just consume together)",
+    "description": "Build, cook, garden, create, fix, or make something with other people. Shared production builds bonds differently than shared consumption. You become collaborators, not just an audience.",
+    "difficulty": "low",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-consumer-capitalism-atomized",
+      "cause-destruction-third-places",
+      "cause-economic-insecurity",
+      "cause-institutional-trust-decline",
+      "cause-market-colonization"
+    ],
+    "addressesSymptoms": [
+      "symptom-no-community",
+      "symptom-lonely-but-connected",
+      "symptom-self-focus-guilt"
+    ],
+    "experiment": "This week, replace one consumption activity (streaming, scrolling, shopping) with a creation activity involving at least one other person. Cook a meal together. Help someone move. Build something. Notice the difference in how you feel after."
+  },
+  {
+    "id": "action-reduce-convenience",
+    "level": "relational",
+    "title": "Choose the harder way together",
+    "description": "Do things the slower, less convenient way — together. Cook instead of ordering delivery. Walk instead of driving. Meet in person instead of texting. The inconvenience is where connection lives.",
+    "difficulty": "low",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-consumer-capitalism-atomized",
+      "cause-market-colonization"
+    ],
+    "addressesSymptoms": [
+      "symptom-nothing-feels-real",
+      "symptom-relationships-feel-transactional"
+    ],
+    "experiment": "Pick one thing you normally do alone for convenience and do it with someone in the less efficient way. Walk to the store together instead of ordering. Cook instead of ordering in. See if the 'inefficiency' produces something unexpected."
+  },
+  {
+    "id": "action-intergenerational-connection",
+    "level": "relational",
+    "title": "Connect across generations",
+    "description": "Deliberately spend time with people much older or younger than you. Elders carry perspective you can't get from peers. Children carry presence you've forgotten. Both remind you that life has stages.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-age-segregation"
+    ],
+    "addressesSymptoms": [
+      "symptom-no-community",
+      "symptom-dont-know-who-i-am"
+    ],
+    "experiment": "Have one extended conversation this month with someone at least 20 years older or younger than you. Ask them what they worry about, what they've learned, what surprised them about life. Listen without advising."
+  }
+]

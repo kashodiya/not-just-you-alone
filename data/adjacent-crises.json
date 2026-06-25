@@ -1,0 +1,308 @@
+[
+  {
+    "id": "crisis-meaning",
+    "title": "The Meaning Crisis",
+    "tier": 1,
+    "summary": "The collapse of wisdom traditions, spiritual practices, and frameworks that made life feel significant — leaving people to generate meaning entirely from scratch.",
+    "connectionToCore": "Even if you solve loneliness (put people in community), they may still feel life is meaningless. Belonging answers 'who am I with?' — meaning answers 'what is all this FOR?'",
+    "keyThinkers": [
+      "John Vervaeke",
+      "Viktor Frankl",
+      "Charles Taylor",
+      "Paul Tillich"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-death-of-duty",
+      "cause-expressive-individualism",
+      "cause-achievement-society",
+      "cause-gig-economy",
+      "cause-personal-brand",
+      "cause-self-esteem-movement",
+      "cause-identity-without-mirrors",
+      "cause-liquid-self"
+    ],
+    "relatedSymptoms": [
+      "symptom-purposeless",
+      "symptom-nothing-feels-real",
+      "symptom-exhausted-but-feel-lazy",
+      "symptom-dont-know-who-i-am",
+      "symptom-freedom-feels-heavy",
+      "symptom-self-focus-guilt"
+    ]
+  },
+  {
+    "id": "crisis-attention",
+    "title": "The Attention Crisis",
+    "tier": 1,
+    "summary": "The systematic destruction of humanity's capacity for sustained, deep focus — the prerequisite for love, work, citizenship, and spirituality.",
+    "connectionToCore": "Attention may be the foundational capacity without which none of the solutions are possible. You cannot commit to community if you cannot sustain attention on another person.",
+    "keyThinkers": [
+      "Johann Hari",
+      "Matthew Crawford",
+      "Tim Wu",
+      "Simone Weil"
+    ],
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-social-media-architecture",
+      "cause-algorithmic-manipulation",
+      "cause-dopamine-dysregulation"
+    ],
+    "relatedSymptoms": [
+      "symptom-cant-tolerate-boredom",
+      "symptom-lonely-but-connected",
+      "symptom-nothing-feels-real",
+      "symptom-everything-feels-performative",
+      "symptom-avoiding-difficulty",
+      "symptom-comparison-spiral"
+    ]
+  },
+  {
+    "id": "crisis-masculinity-femininity",
+    "title": "The Crisis of Masculinity and Femininity",
+    "tier": 1,
+    "summary": "The collapse of clear gender roles has liberated many — but left many (especially young men) without any framework for how to be, what to strive for, or what their value is.",
+    "connectionToCore": "Young men are disproportionately withdrawing into isolation, video games, and online spaces. Young women face impossible standards of 'having it all.' Both are expressions of hyper-individualism applied to gender.",
+    "keyThinkers": [
+      "Richard Reeves",
+      "Warren Farrell",
+      "Christine Emba",
+      "bell hooks"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-identity-without-mirrors",
+      "cause-expressive-individualism"
+    ],
+    "relatedSymptoms": [
+      "symptom-dont-know-who-i-am",
+      "symptom-comparison-spiral"
+    ]
+  },
+  {
+    "id": "crisis-trust",
+    "title": "The Collapse of Trust",
+    "tier": 1,
+    "summary": "A measurable, accelerating decline in trust — in institutions, in other people, in expertise, in truth itself. You rely only on yourself when you trust no one else.",
+    "connectionToCore": "Individualism and distrust are deeply intertwined. When everyone relies only on themselves, trust erodes further — because no one is behaving in trustworthy, committed ways.",
+    "keyThinkers": [
+      "Rachel Botsman",
+      "Francis Fukuyama",
+      "Lee McIntyre",
+      "Onora O'Neill"
+    ],
+    "relatedCauses": [
+      "cause-institutional-trust-decline",
+      "cause-algorithmic-manipulation",
+      "cause-consumer-capitalism-atomized"
+    ],
+    "relatedSymptoms": [
+      "symptom-distrust-everything",
+      "symptom-relationships-feel-transactional"
+    ]
+  },
+  {
+    "id": "crisis-demographic-winter",
+    "title": "The Demographic Winter",
+    "tier": 1,
+    "summary": "Global collapse of birth rates — having children is the ultimate commitment to something beyond the self, and its decline is a direct expression of hyper-individualism.",
+    "connectionToCore": "Having children is perhaps the ultimate act of commitment. Its decline is a direct consequence of prioritizing freedom, optionality, and self-focus over binding commitments.",
+    "keyThinkers": [
+      "Dean Spears",
+      "Jennifer Sciubba",
+      "Paul Morland",
+      "Ross Douthat"
+    ],
+    "relatedCauses": [
+      "cause-economic-insecurity",
+      "cause-paradox-of-choice",
+      "cause-expressive-individualism"
+    ],
+    "relatedSymptoms": [
+      "symptom-cant-commit",
+      "symptom-freedom-feels-heavy"
+    ]
+  },
+  {
+    "id": "crisis-neuroscience-connection",
+    "title": "The Neuroscience of Social Connection",
+    "tier": 2,
+    "summary": "Community isn't a 'nice to have' — it's a biological necessity. Loneliness activates pain circuits. The brain literally expects companionship as its default state.",
+    "connectionToCore": "Understanding what physically happens in the brain during isolation reveals that disconnection isn't just sad — it's physiologically damaging. This reframes the crisis from lifestyle choice to health emergency.",
+    "keyThinkers": [
+      "John Cacioppo",
+      "Matthew Lieberman",
+      "Stephen Porges",
+      "Sebastian Junger"
+    ],
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-destruction-third-places",
+      "cause-ai-companionship",
+      "cause-dopamine-dysregulation"
+    ],
+    "relatedSymptoms": [
+      "symptom-lonely-but-connected",
+      "symptom-nothing-feels-real"
+    ]
+  },
+  {
+    "id": "crisis-commitment-philosophy",
+    "title": "The Philosophy of Commitment and Freedom",
+    "tier": 2,
+    "summary": "At the deepest level, the question is: can you be free AND bound simultaneously? Is a commitment you can exit at any time actually a commitment?",
+    "connectionToCore": "This is the philosophical heart of the crisis. If radical freedom is slavery to impulse, and binding commitment is oppression — what's left? The answer may define whether this generation finds solid ground.",
+    "keyThinkers": [
+      "Søren Kierkegaard",
+      "Hannah Arendt",
+      "Gabriel Marcel",
+      "Simone de Beauvoir",
+      "Charles Taylor"
+    ],
+    "relatedCauses": [
+      "cause-expressive-individualism",
+      "cause-death-of-duty",
+      "cause-liquid-self",
+      "cause-paradox-of-choice",
+      "cause-therapy-culture-boundaries"
+    ],
+    "relatedSymptoms": [
+      "symptom-cant-commit",
+      "symptom-freedom-feels-heavy",
+      "symptom-relationships-feel-transactional"
+    ]
+  },
+  {
+    "id": "crisis-religion-spirituality",
+    "title": "The Death and Rebirth of Religion/Spirituality",
+    "tier": 2,
+    "summary": "Religion historically provided meaning, community, moral framework, ritual, identity, and transcendence. Its decline may be the single largest factor in everything studied here.",
+    "connectionToCore": "Can secular societies provide what religion provided? Are substitute religions emerging (political ideologies, wellness culture, fandom)? The gap religion left may be unfillable by individual effort.",
+    "keyThinkers": [
+      "Charles Taylor",
+      "James K.A. Smith",
+      "Tara Isabella Burton",
+      "Alain de Botton"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-death-of-duty"
+    ],
+    "relatedSymptoms": [
+      "symptom-purposeless",
+      "symptom-nothing-feels-real"
+    ]
+  },
+  {
+    "id": "crisis-metacrisis",
+    "title": "The Metacrisis / Polycrisis",
+    "tier": 2,
+    "summary": "All modern crises (ecological, social, psychological, political, economic, spiritual) may not be separate problems but symptoms of a single failing civilizational operating system.",
+    "connectionToCore": "Hyper-individualism might be one facet of a much larger systemic failure. The question becomes: is this fixable within the current system, or does the entire model need transformation?",
+    "keyThinkers": [
+      "Daniel Schmachtenberger",
+      "Nate Hagens",
+      "Iain McGilchrist",
+      "Donella Meadows",
+      "Adam Tooze"
+    ],
+    "relatedCauses": [
+      "cause-consumer-capitalism-atomized",
+      "cause-economic-insecurity",
+      "cause-market-colonization"
+    ],
+    "relatedSymptoms": [
+      "symptom-self-focus-guilt",
+      "symptom-distrust-everything"
+    ]
+  },
+  {
+    "id": "crisis-architecture-environment",
+    "title": "Architecture and the Built Environment",
+    "tier": 3,
+    "summary": "The physical spaces humans inhabit shape social behavior. Modern architecture and urban planning have been designed for isolation — often unintentionally.",
+    "connectionToCore": "You cannot build community in environments physically designed against it. Suburban sprawl, car dependency, lack of transition spaces between private and public — these are silent causes of isolation.",
+    "keyThinkers": [
+      "Jan Gehl",
+      "Christopher Alexander",
+      "James Howard Kunstler",
+      "Sarah Williams Goldhagen"
+    ],
+    "relatedCauses": [
+      "cause-destruction-third-places",
+      "cause-geographic-mobility",
+      "cause-consumer-capitalism-atomized"
+    ],
+    "relatedSymptoms": [
+      "symptom-no-community",
+      "symptom-lonely-but-connected"
+    ]
+  },
+  {
+    "id": "crisis-ritual",
+    "title": "The Role of Ritual and Ceremony",
+    "tier": 3,
+    "summary": "Ritual is one of the oldest human technologies for creating belonging. Its near-total disappearance from secular life may be a larger loss than recognized.",
+    "connectionToCore": "Without ritual, transitions go unmarked, time becomes flat, nothing feels significant enough to interrupt routine, and grief and joy are privatized. Ritual binds people to each other and to time.",
+    "keyThinkers": [
+      "Victor Turner",
+      "Byung-Chul Han",
+      "Casper ter Kuile",
+      "Michael Norton"
+    ],
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-death-of-duty"
+    ],
+    "relatedSymptoms": [
+      "symptom-nothing-feels-real",
+      "symptom-no-community"
+    ]
+  },
+  {
+    "id": "crisis-wisdom-traditions",
+    "title": "Wisdom Traditions vs. Information Age",
+    "tier": 3,
+    "summary": "We live in the most information-rich, wisdom-poor era in human history. Infinite information available, knowledge increasingly specialized, wisdom traditions abandoned.",
+    "connectionToCore": "Wisdom answers 'what for?' and 'should I?' — questions that information cannot touch. Without wisdom traditions, people know everything about how to do things but nothing about what's worth doing.",
+    "keyThinkers": [
+      "John Vervaeke",
+      "Iain McGilchrist",
+      "Wendell Berry",
+      "Nassim Taleb"
+    ],
+    "relatedCauses": [
+      "cause-age-segregation",
+      "cause-collapse-shared-narratives"
+    ],
+    "relatedSymptoms": [
+      "symptom-purposeless",
+      "symptom-dont-know-who-i-am"
+    ]
+  },
+  {
+    "id": "crisis-play-leisure",
+    "title": "Play, Leisure, and the Loss of Unproductive Time",
+    "tier": 3,
+    "summary": "Genuine leisure (free purposeless activity — not entertainment, not recovery from work) has nearly vanished. Without it, meaning cannot be generated and people become brittle.",
+    "connectionToCore": "A culture without genuine leisure cannot generate meaning — only productivity. Children's unsupervised play builds social skills and empathy. Adults without play become transactional and burned out.",
+    "keyThinkers": [
+      "Josef Pieper",
+      "Johan Huizinga",
+      "Stuart Brown",
+      "Peter Gray"
+    ],
+    "relatedCauses": [
+      "cause-achievement-society",
+      "cause-market-colonization",
+      "cause-overprotection",
+      "cause-dopamine-dysregulation"
+    ],
+    "relatedSymptoms": [
+      "symptom-exhausted-but-feel-lazy",
+      "symptom-avoiding-difficulty",
+      "symptom-nothing-feels-real"
+    ]
+  }
+]

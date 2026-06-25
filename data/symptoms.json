@@ -1,0 +1,339 @@
+[
+  {
+    "id": "symptom-purposeless",
+    "label": "Feeling purposeless or directionless",
+    "description": "A quiet emptiness — not quite depression, but a sense that life has no clear direction. You're functioning, but you can't answer 'what is this all for?'",
+    "commonMisinterpretation": "I'm lazy. I lack ambition. Everyone else seems to have figured it out.",
+    "structuralExplanation": "When every shared framework for meaning (religion, national story, family legacy, career ladder) weakens at once, you're left to generate purpose from scratch. That's not a personal failure — it's an unprecedented weight.",
+    "relatedCauses": [
+      "cause-collapse-shared-narratives",
+      "cause-expressive-individualism",
+      "cause-death-of-duty",
+      "cause-achievement-society"
+    ],
+    "relatedInsights": [
+      "insight-freedom-compulsory",
+      "insight-anomic-gap",
+      "insight-achievement-burnout",
+      "insight-paradox-of-choice"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-religion-spirituality",
+      "crisis-wisdom-traditions"
+    ],
+    "visualHint": "compass spinning with no north"
+  },
+  {
+    "id": "symptom-lonely-but-connected",
+    "label": "Lonely despite being 'connected'",
+    "description": "You have hundreds of contacts, followers, group chats. And yet you feel profoundly alone. The connections are real — but they don't reach deep enough.",
+    "commonMisinterpretation": "I'm bad at relationships. I'm too needy. I should be grateful for what I have.",
+    "structuralExplanation": "Digital connection and embodied presence are not the same thing neurologically. Your brain needs physical proximity, eye contact, shared silence, touch. Screens provide information exchange, not the co-regulation your nervous system craves.",
+    "relatedCauses": [
+      "cause-smartphone-revolution",
+      "cause-social-media-architecture",
+      "cause-destruction-third-places",
+      "cause-geographic-mobility"
+    ],
+    "relatedInsights": [
+      "insight-loneliness-epidemic",
+      "insight-attention-foundation",
+      "insight-privatization"
+    ],
+    "relatedCrises": [
+      "crisis-attention",
+      "crisis-neuroscience-connection",
+      "crisis-architecture-environment"
+    ],
+    "visualHint": "person in a crowd of glowing screens, all facing away"
+  },
+  {
+    "id": "symptom-cant-commit",
+    "label": "Unable to commit — to a job, a person, a place, a path",
+    "description": "Every choice feels like closing a door. You keep options open, delay decisions, hedge. Not because you don't care — because choosing feels irreversible in a world that tells you to stay flexible.",
+    "commonMisinterpretation": "I have commitment issues. I'm immature. I'll figure it out eventually.",
+    "structuralExplanation": "When you have infinite options and no shared framework for what matters, commitment feels like a trap rather than a foundation. Add economic instability (why commit to a place you might be priced out of?) and identity fluidity (who will I be in a year?) — and hesitation becomes rational.",
+    "relatedCauses": [
+      "cause-paradox-of-choice",
+      "cause-liquid-self",
+      "cause-economic-insecurity",
+      "cause-gig-economy"
+    ],
+    "relatedInsights": [
+      "insight-paradox-of-choice",
+      "insight-liquid-self",
+      "insight-sacredness-disappeared",
+      "insight-freedom-compulsory"
+    ],
+    "relatedCrises": [
+      "crisis-commitment-philosophy",
+      "crisis-demographic-winter"
+    ],
+    "visualHint": "person standing at a crossroads with infinite paths fading into fog"
+  },
+  {
+    "id": "symptom-exhausted-but-feel-lazy",
+    "label": "Exhausted but feeling like you haven't done enough",
+    "description": "You're burned out — but you feel guilty about it. You should be doing more. Other people manage. Why can't you? The tiredness feels like failure rather than a signal.",
+    "commonMisinterpretation": "I'm not disciplined enough. I need better habits. I'm wasting my potential.",
+    "structuralExplanation": "In an achievement society, you are both the worker and the boss. There's no end-of-shift whistle. No one says 'enough.' You exploit yourself because you believe it's your choice — and you can never escape the taskmaster because the taskmaster is you.",
+    "relatedCauses": [
+      "cause-achievement-society",
+      "cause-personal-brand",
+      "cause-gig-economy"
+    ],
+    "relatedInsights": [
+      "insight-achievement-burnout",
+      "insight-market-colonized-self"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-play-leisure"
+    ],
+    "visualHint": "hamster wheel that looks like a productivity app"
+  },
+  {
+    "id": "symptom-everything-feels-performative",
+    "label": "Everything feels like a performance",
+    "description": "You can't just do things — you think about how they'd look, who's watching, whether it's 'on brand.' Even genuine moments get filtered through 'would this make a good post?' You're never fully in the moment because part of you is always audience.",
+    "commonMisinterpretation": "I'm narcissistic. I'm too self-conscious. I should just stop caring what people think.",
+    "structuralExplanation": "When you grow up with a profile, metrics, and an audience from age 12, self-presentation becomes wired in. You were trained — thousands of times a day — to see yourself from the outside. That's not vanity. It's conditioning.",
+    "relatedCauses": [
+      "cause-social-media-architecture",
+      "cause-personal-brand",
+      "cause-expressive-individualism"
+    ],
+    "relatedInsights": [
+      "insight-market-colonized-self",
+      "insight-achievement-burnout"
+    ],
+    "relatedCrises": [
+      "crisis-attention"
+    ],
+    "visualHint": "person looking at themselves through a phone camera instead of a mirror"
+  },
+  {
+    "id": "symptom-cant-tolerate-boredom",
+    "label": "Can't sit with boredom or silence",
+    "description": "The moment nothing is happening, your hand reaches for the phone. Silence feels uncomfortable. Waiting feels intolerable. You need stimulation constantly — and you know it's a problem, but you can't stop.",
+    "commonMisinterpretation": "I have no attention span. I'm addicted. I'm weak-willed.",
+    "structuralExplanation": "Your dopamine system has been recalibrated by thousands of hours of rapid-fire stimulation. The brain adapts — it now needs more input to feel the same engagement. Ordinary life (slow conversation, patient work, quiet) feels punishing by comparison. This isn't weakness — it's neurological adaptation to an engineered environment.",
+    "relatedCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-smartphone-revolution",
+      "cause-algorithmic-manipulation"
+    ],
+    "relatedInsights": [
+      "insight-attention-foundation",
+      "insight-friction-removal"
+    ],
+    "relatedCrises": [
+      "crisis-attention"
+    ],
+    "visualHint": "brain with a progress bar that never fills up"
+  },
+  {
+    "id": "symptom-relationships-feel-transactional",
+    "label": "Relationships feel transactional or disposable",
+    "description": "You catch yourself evaluating friendships by what they 'give' you. People feel replaceable. When a relationship gets hard, leaving feels easier than staying. You know this isn't right, but deeper connection feels risky or exhausting.",
+    "commonMisinterpretation": "I'm emotionally unavailable. I don't know how to love properly. I'm selfish.",
+    "structuralExplanation": "When market logic colonizes relationships, people become investments to evaluate. Add infinite options (dating apps, new cities, new social circles) and the cost of staying rises while the cost of leaving drops to zero. The architecture of modern life makes depth expensive and breadth cheap.",
+    "relatedCauses": [
+      "cause-market-colonization",
+      "cause-paradox-of-choice",
+      "cause-therapy-culture-boundaries",
+      "cause-geographic-mobility"
+    ],
+    "relatedInsights": [
+      "insight-market-colonized-self",
+      "insight-liquid-self",
+      "insight-sacredness-disappeared",
+      "insight-friction-removal"
+    ],
+    "relatedCrises": [
+      "crisis-trust",
+      "crisis-commitment-philosophy"
+    ],
+    "visualHint": "two people connected by a shopping receipt instead of a thread"
+  },
+  {
+    "id": "symptom-dont-know-who-i-am",
+    "label": "Don't know who I am",
+    "description": "Your identity shifts depending on context — different with family, friends, online, at work. You've tried on different aesthetics, beliefs, communities. Nothing sticks. You're not sure there's a 'real you' underneath.",
+    "commonMisinterpretation": "I'm fake. I'm a people-pleaser. I need to 'find myself' harder.",
+    "structuralExplanation": "Identity formation needs stable mirrors — consistent people, roles, and narratives that reflect back who you are over time. When relationships are unstable, roles are unclear, and narratives change constantly, identity becomes a perpetual construction project. The self is never solid because it was never given stable ground to form on.",
+    "relatedCauses": [
+      "cause-identity-without-mirrors",
+      "cause-expressive-individualism",
+      "cause-liquid-self",
+      "cause-social-media-architecture"
+    ],
+    "relatedInsights": [
+      "insight-liquid-self",
+      "insight-freedom-compulsory"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-masculinity-femininity",
+      "crisis-wisdom-traditions"
+    ],
+    "visualHint": "mirror reflecting a different face each time you look"
+  },
+  {
+    "id": "symptom-distrust-everything",
+    "label": "Can't trust institutions, systems, or sometimes people",
+    "description": "You've watched institutions lie, fail, and serve themselves. You're skeptical of everything — news, government, corporations, sometimes even the people around you. It feels safer to rely only on yourself.",
+    "commonMisinterpretation": "I'm cynical. I'm negative. I should be more trusting.",
+    "structuralExplanation": "You've witnessed institutional failure firsthand — religious abuse scandals, financial crashes, political lies, media manipulation, educational debt traps. Distrust isn't paranoia. It's pattern recognition. The problem is that without trusted external frameworks, the self becomes the only reference point — and that's too much weight for one person to carry.",
+    "relatedCauses": [
+      "cause-institutional-trust-decline",
+      "cause-collapse-shared-narratives"
+    ],
+    "relatedInsights": [
+      "insight-self-centeredness-self-defense",
+      "insight-anomic-gap"
+    ],
+    "relatedCrises": [
+      "crisis-trust",
+      "crisis-metacrisis"
+    ],
+    "visualHint": "cracked pillars of buildings (church, bank, government) with a person standing alone"
+  },
+  {
+    "id": "symptom-nothing-feels-real",
+    "label": "Life feels unreal or like you're going through motions",
+    "description": "You do things — work, socialize, eat, sleep — but it feels like watching yourself from outside. Nothing quite lands. Days blur together. You're present but not really there.",
+    "commonMisinterpretation": "Something is deeply wrong with me. Maybe I'm depressed. Maybe I don't care about anything.",
+    "structuralExplanation": "When nothing is sacred — held apart from calculation and personal preference — everything becomes equally weightless. Add continuous partial attention (never fully present anywhere) and the elimination of ritual (nothing marks time as significant), and life loses texture. You're not numb — you're in an environment that produces numbness.",
+    "relatedCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-smartphone-revolution",
+      "cause-collapse-shared-narratives"
+    ],
+    "relatedInsights": [
+      "insight-sacredness-disappeared",
+      "insight-attention-foundation"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-ritual",
+      "crisis-attention",
+      "crisis-neuroscience-connection",
+      "crisis-religion-spirituality",
+      "crisis-play-leisure"
+    ],
+    "visualHint": "person walking through a world rendered in grayscale while color exists just beyond reach"
+  },
+  {
+    "id": "symptom-self-focus-guilt",
+    "label": "Focused on yourself but guilty about it",
+    "description": "Your attention is mostly on your own life — your career, your feelings, your growth. You know you should care more about others, about community, about the world. But you barely have enough energy for yourself.",
+    "commonMisinterpretation": "I'm selfish. I'm a bad person. I should volunteer or something.",
+    "structuralExplanation": "When economic conditions demand survival-mode, when no safety net exists, and when you've been trained since childhood that you alone are responsible for your outcomes — self-focus isn't selfishness. It's the only rational strategy in a system that provides no collective support. You can't pour from an empty cup, and the system keeps emptying the cup.",
+    "relatedCauses": [
+      "cause-economic-insecurity",
+      "cause-achievement-society",
+      "cause-overprotection"
+    ],
+    "relatedInsights": [
+      "insight-self-centeredness-self-defense",
+      "insight-achievement-burnout",
+      "insight-privatization"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-metacrisis"
+    ],
+    "visualHint": "person trying to hold water in their hands while more pours in from above"
+  },
+  {
+    "id": "symptom-avoiding-difficulty",
+    "label": "Avoiding anything difficult, uncomfortable, or boring",
+    "description": "You procrastinate on hard conversations, delay uncomfortable decisions, abandon things when they stop being fun. You know growth requires discomfort — but you can't seem to make yourself stay in it.",
+    "commonMisinterpretation": "I'm a coward. I'm soft. I need more discipline.",
+    "structuralExplanation": "Two forces combine: your nervous system was recalibrated for instant gratification (dopamine), and your childhood may have been overprotected from necessary friction. The muscle for tolerating discomfort was never built — not because you're weak, but because the environment never required it. And now everything is designed to let you exit the moment things get hard.",
+    "relatedCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-overprotection",
+      "cause-smartphone-revolution"
+    ],
+    "relatedInsights": [
+      "insight-friction-removal",
+      "insight-liquid-self"
+    ],
+    "relatedCrises": [
+      "crisis-attention",
+      "crisis-play-leisure"
+    ],
+    "visualHint": "door labeled 'growth' with a comfortable couch right in front of it"
+  },
+  {
+    "id": "symptom-comparison-spiral",
+    "label": "Constantly comparing yourself to others",
+    "description": "Everyone seems further ahead — better career, better body, better relationship, more put-together. You scroll and feel worse. You know it's curated, you know it's not real — but it still lands.",
+    "commonMisinterpretation": "I'm jealous. I'm insecure. I should be more confident.",
+    "structuralExplanation": "You're comparing your unedited inner life to thousands of curated highlight reels — daily. No previous generation had to withstand this volume of social comparison. The architecture of social media (feeds, metrics, profiles) is literally designed to trigger comparison because it drives engagement. You're not insecure — you're being targeted.",
+    "relatedCauses": [
+      "cause-social-media-architecture",
+      "cause-algorithmic-manipulation",
+      "cause-personal-brand"
+    ],
+    "relatedInsights": [
+      "insight-loneliness-epidemic",
+      "insight-market-colonized-self"
+    ],
+    "relatedCrises": [
+      "crisis-attention",
+      "crisis-masculinity-femininity"
+    ],
+    "visualHint": "person looking at a wall of glowing windows, each showing someone else's highlight reel"
+  },
+  {
+    "id": "symptom-no-community",
+    "label": "No sense of belonging to a community",
+    "description": "You don't feel part of anything bigger — no group, neighborhood, congregation, or movement that you truly belong to. You're in the world but not really *of* anywhere.",
+    "commonMisinterpretation": "I'm antisocial. I haven't tried hard enough. I need to put myself out there more.",
+    "structuralExplanation": "Community used to be a default — you were born into a place, a congregation, a neighborhood, a trade. Now all belonging must be chosen and maintained through personal effort. Meanwhile, third places have vanished, geographic mobility uproots people repeatedly, and age segregation means you rarely encounter different life stages. Community didn't disappear because you failed — the infrastructure for it was dismantled.",
+    "relatedCauses": [
+      "cause-destruction-third-places",
+      "cause-geographic-mobility",
+      "cause-age-segregation",
+      "cause-consumer-capitalism-atomized"
+    ],
+    "relatedInsights": [
+      "insight-loneliness-epidemic",
+      "insight-privatization",
+      "insight-anomic-gap"
+    ],
+    "relatedCrises": [
+      "crisis-architecture-environment",
+      "crisis-ritual"
+    ],
+    "visualHint": "empty park bench in a neighborhood with closed doors"
+  },
+  {
+    "id": "symptom-freedom-feels-heavy",
+    "label": "Freedom feels more like burden than liberation",
+    "description": "You have more choices, autonomy, and options than any generation before you. And somehow it doesn't feel like freedom — it feels like pressure. The weight of designing your entire life from scratch is crushing rather than exciting.",
+    "commonMisinterpretation": "I'm ungrateful. People fought for this freedom. I should appreciate it.",
+    "structuralExplanation": "There's a difference between freedom-from (escaping oppression) and freedom-without-direction (thrown into wilderness with no map). When you must choose your identity, meaning, career, worldview, and community with no given framework — 'freedom' becomes compulsory, exhausting self-creation. You're not ungrateful. You're experiencing the paradox of freedom without structure.",
+    "relatedCauses": [
+      "cause-expressive-individualism",
+      "cause-collapse-shared-narratives",
+      "cause-self-esteem-movement"
+    ],
+    "relatedInsights": [
+      "insight-freedom-compulsory",
+      "insight-anomic-gap",
+      "insight-achievement-burnout",
+      "insight-paradox-of-choice"
+    ],
+    "relatedCrises": [
+      "crisis-meaning",
+      "crisis-commitment-philosophy",
+      "crisis-demographic-winter"
+    ],
+    "visualHint": "wide open sky with nothing to hold onto — beautiful and terrifying"
+  }
+]

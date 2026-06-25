@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find Who Am I — Data Explorer</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      overflow: hidden;
+      height: 100vh;
+    }
+
+    #app {
+      display: flex;
+      height: 100vh;
+    }
+
+    /* Sidebar */
+    #sidebar {
+      width: 320px;
+      background: #16213e;
+      border-right: 1px solid #0f3460;
+      display: flex;
+      flex-direction: column;
+      z-index: 10;
+      overflow: hidden;
+    }
+
+    #sidebar h1 {
+      padding: 20px;
+      font-size: 1.2rem;
+      color: #e94560;
+      border-bottom: 1px solid #0f3460;
+    }
+
+    #sidebar h1 span {
+      display: block;
+      font-size: 0.75rem;
+      color: #888;
+      font-weight: normal;
+      margin-top: 4px;
+    }
+
+    #filters {
+      padding: 16px 20px;
+      border-bottom: 1px solid #0f3460;
+    }
+
+    #filters h3 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #888;
+      margin-bottom: 10px;
+    }
+
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      padding: 5px 10px;
+      border-radius: 12px;
+      border: 1px solid;
+      background: transparent;
+      font-size: 0.75rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-weight: 500;
+    }
+
+    .filter-btn.active {
+      color: #fff !important;
+    }
+
+    .filter-btn[data-type="symptom"] { color: #ff6b6b; border-color: #ff6b6b; }
+    .filter-btn[data-type="symptom"].active { background: #ff6b6b; }
+    .filter-btn[data-type="cause"] { color: #feca57; border-color: #feca57; }
+    .filter-btn[data-type="cause"].active { background: #feca57; color: #1a1a2e !important; }
+    .filter-btn[data-type="insight"] { color: #48dbfb; border-color: #48dbfb; }
+    .filter-btn[data-type="insight"].active { background: #48dbfb; color: #1a1a2e !important; }
+    .filter-btn[data-type="pattern"] { color: #ff9ff3; border-color: #ff9ff3; }
+    .filter-btn[data-type="pattern"].active { background: #ff9ff3; color: #1a1a2e !important; }
+    .filter-btn[data-type="action"] { color: #55efc4; border-color: #55efc4; }
+    .filter-btn[data-type="action"].active { background: #55efc4; color: #1a1a2e !important; }
+    .filter-btn[data-type="crisis"] { color: #a29bfe; border-color: #a29bfe; }
+    .filter-btn[data-type="crisis"].active { background: #a29bfe; color: #1a1a2e !important; }
+
+    /* Detail panel */
+    #detail {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+    }
+
+    #detail::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    #detail::-webkit-scrollbar-thumb {
+      background: #0f3460;
+      border-radius: 3px;
+    }
+
+    #detail-content {
+      display: none;
+    }
+
+    #detail-placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      text-align: center;
+      color: #555;
+      font-style: italic;
+      padding: 20px;
+    }
+
+    .detail-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .detail-badge {
+      padding: 3px 8px;
+      border-radius: 8px;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+
+    .detail-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .detail-section {
+      margin-bottom: 16px;
+    }
+
+    .detail-section h4 {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #888;
+      margin-bottom: 6px;
+    }
+
+    .detail-section p {
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: #ccc;
+    }
+
+    .detail-section blockquote {
+      border-left: 3px solid #e94560;
+      padding-left: 12px;
+      font-style: italic;
+      color: #aaa;
+      font-size: 0.85rem;
+    }
+
+    .detail-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .detail-link {
+      padding: 3px 8px;
+      border-radius: 8px;
+      font-size: 0.7rem;
+      cursor: pointer;
+      transition: opacity 0.2s;
+      opacity: 0.8;
+    }
+
+    .detail-link:hover {
+      opacity: 1;
+    }
+
+    /* Canvas area */
+    #canvas-container {
+      flex: 1;
+      position: relative;
+    }
+
+    canvas {
+      display: block;
+    }
+
+    /* Stats bar */
+    #stats {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(22, 33, 62, 0.9);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 0.7rem;
+      color: #888;
+      border: 1px solid #0f3460;
+    }
+
+    /* Search */
+    #search-container {
+      padding: 12px 20px;
+      border-bottom: 1px solid #0f3460;
+    }
+
+    #search {
+      width: 100%;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid #0f3460;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      font-size: 0.85rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    #search:focus {
+      border-color: #e94560;
+    }
+
+    #search::placeholder {
+      color: #555;
+    }
+
+    /* Controls */
+    #controls {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      display: flex;
+      gap: 8px;
+    }
+
+    .control-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 1px solid #0f3460;
+      background: rgba(22, 33, 62, 0.9);
+      color: #e0e0e0;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      transition: background 0.2s;
+    }
+
+    .control-btn:hover {
+      background: #0f3460;
+    }
+
+    /* Legend */
+    #legend {
+      position: absolute;
+      bottom: 12px;
+      left: 12px;
+      background: rgba(22, 33, 62, 0.9);
+      padding: 12px 16px;
+      border-radius: 8px;
+      border: 1px solid #0f3460;
+      font-size: 0.7rem;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+
+    .legend-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    /* Tooltip */
+    #tooltip {
+      position: absolute;
+      pointer-events: none;
+      background: rgba(22, 33, 62, 0.95);
+      border: 1px solid #0f3460;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      max-width: 250px;
+      display: none;
+      z-index: 100;
+    }
+
+    #tooltip .tooltip-type {
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 2px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="sidebar">
+      <h1>
+        Find Who Am I
+        <span>Interactive Data Explorer</span>
+      </h1>
+      <div id="search-container">
+        <input type="text" id="search" placeholder="Search nodes..." />
+      </div>
+      <div id="filters">
+        <h3>Show / Hide</h3>
+        <div class="filter-group">
+          <button class="filter-btn active" data-type="symptom">Symptoms</button>
+          <button class="filter-btn active" data-type="cause">Causes</button>
+          <button class="filter-btn active" data-type="insight">Insights</button>
+          <button class="filter-btn active" data-type="pattern">Patterns</button>
+          <button class="filter-btn active" data-type="action">Actions</button>
+          <button class="filter-btn active" data-type="crisis">Crises</button>
+        </div>
+      </div>
+      <div id="detail">
+        <div id="detail-placeholder">
+          <p>Click a node to explore its connections.<br><br>Drag to move nodes. Scroll to zoom. Pan with right-click.</p>
+        </div>
+        <div id="detail-content"></div>
+      </div>
+    </div>
+    <div id="canvas-container">
+      <canvas id="graph"></canvas>
+      <div id="stats"></div>
+      <div id="tooltip"></div>
+      <div id="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:#ff6b6b"></div>Symptoms</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#feca57"></div>Causes</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#48dbfb"></div>Insights</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#ff9ff3"></div>Patterns</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#55efc4"></div>Actions</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#a29bfe"></div>Crises</div>
+      </div>
+      <div id="controls">
+        <button class="control-btn" id="btn-reset" title="Reset view">⟲</button>
+        <button class="control-btn" id="btn-zoom-in" title="Zoom in">+</button>
+        <button class="control-btn" id="btn-zoom-out" title="Zoom out">−</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="graph.js"></script>
+</body>
+</html>

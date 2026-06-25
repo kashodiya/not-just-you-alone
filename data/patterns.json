@@ -1,0 +1,83 @@
+[
+  {
+    "id": "pattern-friction-removal",
+    "title": "The Systematic Removal of Necessary Friction",
+    "description": "Every major cause shares a common thread: the removal of resistance from life. Some removed friction was oppressive — but some was developmental. Without it, people become fragile.",
+    "loop": [
+      "Technology and culture remove friction from daily life",
+      "Discomfort tolerance decreases (never exercised)",
+      "Real relationships and commitments feel 'too hard'",
+      "Retreat to frictionless alternatives (screens, AI, isolation)",
+      "Further loss of tolerance and skill",
+      "Deeper isolation and fragility"
+    ],
+    "involvedCauses": ["cause-smartphone-revolution", "cause-dopamine-dysregulation", "cause-overprotection", "cause-ai-companionship", "cause-algorithmic-manipulation", "cause-therapy-culture-boundaries"],
+    "relatedInsights": ["insight-friction-removal"],
+    "visualHint": "circular arrows getting tighter like a whirlpool pulling inward"
+  },
+  {
+    "id": "pattern-privatization-cycle",
+    "title": "The Privatization of Everything",
+    "description": "What was once shared has been made individual — meaning, entertainment, transport, food, childcare, risk, identity, morality. The accumulation leaves nothing requiring genuine interdependence.",
+    "loop": [
+      "Shared activity is replaced by individual consumption (it's more convenient)",
+      "Less need for coordination with others",
+      "Social skills and tolerance atrophy",
+      "Shared activities feel harder (compared to solo convenience)",
+      "More retreat to private/individual options",
+      "Community infrastructure loses users and funding, declines further"
+    ],
+    "involvedCauses": ["cause-consumer-capitalism-atomized", "cause-destruction-third-places", "cause-geographic-mobility", "cause-market-colonization"],
+    "relatedInsights": ["insight-privatization", "insight-loneliness-epidemic"],
+    "visualHint": "shared table slowly splitting into individual trays carried away in different directions"
+  },
+  {
+    "id": "pattern-insecurity-isolation-loop",
+    "title": "The Insecurity–Isolation Feedback Loop",
+    "description": "Economic insecurity forces self-focus, which weakens community, which removes safety nets, which increases insecurity — a self-reinforcing spiral.",
+    "loop": [
+      "Economic insecurity forces survival-mode self-focus",
+      "Self-focus means less investment in community",
+      "Weaker community means weaker social safety nets",
+      "Weaker safety nets mean more individual vulnerability",
+      "More vulnerability means more economic insecurity",
+      "Cycle intensifies"
+    ],
+    "involvedCauses": ["cause-economic-insecurity", "cause-consumer-capitalism-atomized", "cause-gig-economy", "cause-geographic-mobility"],
+    "relatedInsights": ["insight-self-centeredness-self-defense", "insight-privatization"],
+    "visualHint": "downward spiral with money symbols at top and a lone figure at bottom"
+  },
+  {
+    "id": "pattern-attention-loneliness-loop",
+    "title": "The Attention–Loneliness Feedback Loop",
+    "description": "Technology reduces attention capacity, which makes deep relationships harder, which increases loneliness, which drives more screen time, which further damages attention.",
+    "loop": [
+      "Technology captures and fragments attention",
+      "Reduced capacity for sustained presence with others",
+      "Relationships become shallower (can't listen, can't stay)",
+      "Loneliness increases",
+      "More screen time seeking connection or escape",
+      "Attention further fragmented"
+    ],
+    "involvedCauses": ["cause-smartphone-revolution", "cause-dopamine-dysregulation", "cause-social-media-architecture", "cause-algorithmic-manipulation"],
+    "relatedInsights": ["insight-attention-foundation", "insight-loneliness-epidemic"],
+    "visualHint": "phone screen and a person's face circling each other, both getting smaller"
+  },
+  {
+    "id": "pattern-meaning-void-consumption",
+    "title": "The Meaning Void → Consumption Loop",
+    "description": "Loss of meaning creates a void. The market offers products, experiences, and identities to fill it. But purchased meaning doesn't satisfy — so the void returns, demanding more consumption.",
+    "loop": [
+      "Shared meaning frameworks collapse",
+      "Existential void emerges (purposelessness, anxiety)",
+      "Market offers solutions: self-help, wellness, experiences, identity products",
+      "Temporary relief through consumption",
+      "Purchased meaning fades (it wasn't earned or rooted)",
+      "Void returns, often deeper",
+      "More consumption seeking"
+    ],
+    "involvedCauses": ["cause-collapse-shared-narratives", "cause-consumer-capitalism-atomized", "cause-market-colonization", "cause-personal-brand"],
+    "relatedInsights": ["insight-market-colonized-self", "insight-anomic-gap", "insight-sacredness-disappeared"],
+    "visualHint": "person pouring purchases into a hole that stays empty"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "not-just-you-alone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Interactive public-awareness tool for understanding structural patterns shaping modern life",
+  "homepage": "https://kashodiya.github.io/not-just-you-alone/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kashodiya/not-just-you-alone.git"
+  },
+  "scripts": {
+    "viz": "python -m http.server 3000",
+    "serve": "python -m http.server 3000"
+  }
+}
