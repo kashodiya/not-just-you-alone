@@ -54,7 +54,7 @@
     "id": "action-discomfort-tolerance",
     "level": "individual",
     "title": "Build your discomfort muscle",
-    "description": "Deliberately choose situations that are difficult, boring, or require patience. Not punishment — training. The capacity for difficulty is a muscle that grows with use.",
+    "description": "Deliberately choose situations that are emotionally or relationally difficult — the hard conversation, the boring obligation, the patience with imperfect people. Not punishment — training. This action focuses on emotional and relational discomfort (staying in difficult feelings, staying with difficult people). For physical/sensory training, see action-voluntary-discomfort. For body-based discipline, see action-physical-discipline.",
     "difficulty": "medium",
     "timeframe": "ongoing",
     "addressesCauses": [
@@ -71,7 +71,7 @@
       "symptom-avoiding-difficulty",
       "symptom-cant-tolerate-boredom"
     ],
-    "experiment": "This week, do one thing you've been avoiding because it feels uncomfortable — a difficult conversation, a boring task, sitting in silence for 20 minutes. Don't fix the discomfort. Just be in it."
+    "experiment": "This week, do one thing you've been avoiding because it feels emotionally uncomfortable — a difficult conversation, a boring task you owe someone, sitting with a feeling instead of distracting from it. Don't fix the discomfort. Just be in it."
   },
   {
     "id": "action-seek-obligations",
@@ -117,8 +117,8 @@
   {
     "id": "action-deep-attention",
     "level": "individual",
-    "title": "Practice sustained attention",
-    "description": "Read a long book. Meditate. Have a conversation longer than 10 minutes without checking anything. Practice being fully in one place at one time.",
+    "title": "Guard and practice sustained attention",
+    "description": "Your attention is your most sacred possession — whatever holds your attention holds your life. Treat it like an athlete treats their body: defend it, train it, refuse to let it be stolen. Read a long book. Meditate. Have a conversation longer than 10 minutes without checking anything. Practice being fully in one place at one time. Reduce inputs that fragment and weaken. This isn't productivity advice — it's about reclaiming the foundation everything else is built on.",
     "difficulty": "medium",
     "timeframe": "ongoing",
     "addressesCauses": [
@@ -129,7 +129,7 @@
       "symptom-cant-tolerate-boredom",
       "symptom-nothing-feels-real"
     ],
-    "experiment": "Read a physical book for 30 minutes without interruption. When the urge to check your phone comes (it will), notice it, and stay with the book. Track how many days you can sustain this."
+    "experiment": "Read a physical book for 30 minutes without interruption. When the urge to check your phone comes (it will), notice it, and stay with the book. Track how many days you can sustain this. Notice what happens to the quality of your thoughts after a week."
   },
   {
     "id": "action-find-third-place",
@@ -240,5 +240,75 @@
       "symptom-dont-know-who-i-am"
     ],
     "experiment": "Have one extended conversation this month with someone at least 20 years older or younger than you. Ask them what they worry about, what they've learned, what surprised them about life. Listen without advising."
+  },
+  {
+    "id": "action-promise-keeping",
+    "level": "individual",
+    "title": "Make small promises and keep them",
+    "description": "The foundation of self-trust. Not grand resolutions — daily micro-commitments honored regardless of mood. Scale matters less than consistency. Every kept promise deposits something in the account of self-trust. Every broken one withdraws.",
+    "difficulty": "low",
+    "timeframe": "immediate",
+    "addressesCauses": [
+      "cause-overprotection",
+      "cause-liquid-self",
+      "cause-dopamine-dysregulation"
+    ],
+    "addressesSymptoms": [
+      "symptom-avoiding-difficulty",
+      "symptom-cant-commit"
+    ],
+    "experiment": "Choose 3 tiny promises for this week — a wake time, one food rule, one task you'll complete. Keep all three every day. Not because they matter individually — but for the experience of having kept your word to yourself. At the end of the week, notice what that feels like."
+  },
+  {
+    "id": "action-voluntary-discomfort",
+    "level": "individual",
+    "title": "Choose difficulty as training, not punishment",
+    "description": "Cold exposure, fasting, silence, solitude, boredom — deliberately chosen. Not to suffer, but to train. Every time you remain in discomfort rather than flee to relief, your threshold expands. You prove to yourself that discomfort won't destroy you. This is physical and sensory training as the entry point to inner strength.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-overprotection",
+      "cause-dopamine-dysregulation"
+    ],
+    "addressesSymptoms": [
+      "symptom-avoiding-difficulty",
+      "symptom-cant-tolerate-boredom"
+    ],
+    "experiment": "This week, take one cold shower daily — even 30 seconds at the end counts. Or: sit in complete silence for 15 minutes with no inputs, no phone, no music. Don't fix the discomfort. Just be in it. Notice that you survive. Notice what your mind does."
+  },
+  {
+    "id": "action-find-mentor",
+    "level": "individual",
+    "title": "Find one real person who embodies strength",
+    "description": "Not an influencer performing wisdom for cameras. A real person whose life demonstrates what they teach. In the absence of functioning institutions, one relationship with a strong person can transmit what no curriculum, app, or book can. Observation of how they handle difficulty, speak, and refuse — this teaches more than information ever will.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-age-segregation",
+      "cause-collapse-shared-narratives",
+      "cause-institutional-trust-decline"
+    ],
+    "addressesSymptoms": [
+      "symptom-dont-know-who-i-am",
+      "symptom-purposeless"
+    ],
+    "experiment": "Think of one person in your life — or reachable — whose way of living you respect. Not their success or status — their character. How they handle pressure. Ask them one real question this month. Not advice-seeking. A genuine question about how they see things. Listen to how they think, not just what they say."
+  },
+  {
+    "id": "action-physical-discipline",
+    "level": "individual",
+    "title": "Use the body as entry point to self-governance",
+    "description": "The body is the most accessible domain for practicing self-mastery — concrete, measurable, immediately honest. Choosing to exercise when you don't want to, eating properly when junk is easier, sleeping on schedule when entertainment calls. These daily repetitions build the muscle of acting against impulse. Not for appearance. For the experience of governing yourself in the simplest domain first.",
+    "difficulty": "medium",
+    "timeframe": "ongoing",
+    "addressesCauses": [
+      "cause-dopamine-dysregulation",
+      "cause-overprotection"
+    ],
+    "addressesSymptoms": [
+      "symptom-avoiding-difficulty",
+      "symptom-exhausted-but-feel-lazy"
+    ],
+    "experiment": "For 7 days: no junk food, 30 minutes of intentional movement, sleep by a set time. Not for health or appearance — for the experience of keeping a contract with your own body. Notice what it does to your confidence and your sense of self-trust by day 7."
   }
 ]

@@ -172,11 +172,41 @@
     "plain": "Life got really comfortable really fast. No arguments because you can just unfollow. No boredom because you can scroll. No awkwardness because you can text instead of talk. But here's the problem: all that uncomfortable stuff was building something in you. Disagreements taught you compromise. Boredom made you creative. Awkwardness made you brave. Take that away, and you end up smooth — but fragile.",
     "sophisticated": "Modern life removes ALL friction indiscriminately — both oppressive and developmental. The result is frictionless existence that produces fragile, impatient, isolated individuals who cannot tolerate the inherent imperfection of human community.",
     "coreIdea": "Modern life removes ALL friction — both oppressive and developmental. The result is frictionless existence that produces fragile, impatient, isolated individuals.",
-    "explanation": "Some friction is oppressive (discrimination, abuse) and should be removed. But some is developmental — it builds strength. The friction of disagreement teaches compromise. Boredom teaches creativity. Obligation teaches responsibility. Delayed gratification teaches patience. Depending on imperfect people teaches forgiveness. Modern life removes ALL friction indiscriminately, producing people who cannot tolerate the inherent imperfection of human community.",
+    "explanation": "Some friction is oppressive (discrimination, abuse) and should be removed. But some is developmental — it builds strength. The friction of disagreement teaches compromise. Boredom teaches creativity. Obligation teaches responsibility. Delayed gratification teaches patience. Depending on imperfect people teaches forgiveness. Modern life removes ALL friction indiscriminately, producing people who cannot tolerate the inherent imperfection of human community. And here's the deeper layer: the system removes friction AND the individual's capacity to tolerate friction was never built — because no institution took responsibility for building it. Both are true simultaneously. Fixing the system alone won't help if inner tolerance was never developed. Building tolerance alone won't help if the system keeps removing every opportunity to practice it. The way out requires both: deliberately seeking friction (personal) while acknowledging why it was removed (structural).",
     "reframe": "You're not weak for finding things hard — you were raised in an environment that removed all resistance. The muscle for difficulty was never built. It can still be built now, deliberately.",
     "relatedCauses": ["cause-smartphone-revolution", "cause-dopamine-dysregulation", "cause-overprotection", "cause-ai-companionship", "cause-algorithmic-manipulation", "cause-therapy-culture-boundaries", "cause-self-esteem-movement"],
     "relatedSymptoms": ["symptom-avoiding-difficulty", "symptom-cant-tolerate-boredom", "symptom-relationships-feel-transactional"],
     "relatedCrises": ["crisis-attention", "crisis-play-leisure"],
     "quotable": "A frictionless life produces a self that can't grip anything."
+  },
+  {
+    "id": "insight-knowledge-not-strength",
+    "title": "Knowing Why You're Drowning Doesn't Teach You to Swim",
+    "concept": "Knowledge vs. Capacity",
+    "conceptOrigin": "Original synthesis (smoking doctor metaphor), supported by critiques of Deming from behavioral psychology",
+    "plain": "You understand exactly why you feel stuck. You can explain the algorithms, the economy, the loneliness epidemic. You get it. And yet — nothing changes. That's because understanding is the map, not the muscle. A heart specialist who smokes proves it: knowing everything doesn't mean you can act on it.",
+    "sophisticated": "Intellectual understanding of a problem is categorically different from the inner capacity to overcome it. Diagnosis without cure produces sophisticated helplessness — people who can articulate their prison perfectly but remain inside it.",
+    "coreIdea": "Intellectual understanding of a problem is not the inner power to overcome it. Knowledge is the map, not the muscle.",
+    "explanation": "A heart and lung specialist who smokes cigarettes possesses complete understanding of the damage. He can explain the systemic forces — nicotine addiction, stress culture, tobacco industry manipulation. Every explanation is accurate. And yet his lungs still decay. Only the inner strength to act against the pull would save him — and that strength is something no explanation can provide. The same applies to every systemic insight this project offers: seeing the architecture clearly is necessary but insufficient. At some point, you must move.",
+    "reframe": "You understand your situation — and that matters. But understanding is the first step, not the last. The next step isn't more analysis. It's practice — small, repeated, unglamorous. Nobody taught you this. That's real. But you can teach yourself, starting smaller than you think.",
+    "relatedCauses": ["cause-overprotection", "cause-self-esteem-movement", "cause-dopamine-dysregulation"],
+    "relatedSymptoms": ["symptom-avoiding-difficulty", "symptom-exhausted-but-feel-lazy"],
+    "relatedCrises": ["crisis-meaning"],
+    "quotable": "A heart specialist who smokes proves it: knowing everything doesn't mean you can act on it."
+  },
+  {
+    "id": "insight-missing-pillar",
+    "title": "Mental Strength Has No Institutional Home",
+    "concept": "The Three Pillars of Human Development",
+    "conceptOrigin": "Original framework synthesized from Deming critique, virtue ethics tradition, and institutional analysis",
+    "plain": "Your school built your intellect. Sports built your body (maybe). But who built your inner strength? Your capacity to endure, to resist impulse, to keep a promise when it's hard? Nobody. No institution in modern life is tasked with this. Religion used to do it — it's fading. Parents can't transmit what they never received. Mindfulness gives peace, not power. The result: a generation that knows everything and can endure nothing.",
+    "sophisticated": "Human development rests on three pillars: physical, intellectual, and mental. Modern society partially addresses the first two and completely neglects the third. Every institution that historically built the inner person — religion, family, education, community — has failed or vanished. No replacement is coming. The individual must become their own builder.",
+    "coreIdea": "Every institution that should have built your inner strength has failed or vanished. No replacement is coming. You must build it yourself — not because it's fair, but because you're the only one who can.",
+    "explanation": "Religious institutions cultivated discipline, duty, and endurance — they're declining. Parents transmit character by example — but they're products of the same system that neglected development. Education focuses on intellect and credentials — it has no curriculum for self-mastery. Mindfulness offers calm, not strength. The wellness industry offers relief, not forging. The result is a vacuum: no institution is responsible for building mentally strong human beings. And into that vacuum rushes nothing useful — just more explanations, more comfort, more sophisticated understanding without capacity for action.",
+    "reframe": "You weren't failed by laziness — you were failed by a world that built your mind for information but never for strength. A muscle never exercised isn't weak from laziness — it was never used. It can still grow. But you'll have to be the one to grow it, deliberately, because no one else is assigned to this job.",
+    "relatedCauses": ["cause-overprotection", "cause-self-esteem-movement", "cause-collapse-shared-narratives", "cause-institutional-trust-decline"],
+    "relatedSymptoms": ["symptom-avoiding-difficulty", "symptom-exhausted-but-feel-lazy", "symptom-cant-commit", "symptom-cant-tolerate-boredom"],
+    "relatedCrises": ["crisis-meaning", "crisis-religion-spirituality", "crisis-wisdom-traditions"],
+    "quotable": "Every institution that should have built your inner strength has failed or vanished. No replacement is coming. The power — and the work — is yours."
   }
 ]

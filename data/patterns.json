@@ -79,5 +79,41 @@
     "involvedCauses": ["cause-collapse-shared-narratives", "cause-consumer-capitalism-atomized", "cause-market-colonization", "cause-personal-brand"],
     "relatedInsights": ["insight-market-colonized-self", "insight-anomic-gap", "insight-sacredness-disappeared"],
     "visualHint": "person pouring purchases into a hole that stays empty"
+  },
+  {
+    "id": "pattern-diagnosis-without-cure",
+    "title": "The Understanding Trap",
+    "description": "Understanding systemic causes provides validation and relief from shame — but without inner strength-building, it becomes a loop. Sophistication increases while capacity for action doesn't. The person becomes an expert on their own imprisonment without developing the power to leave.",
+    "loop": [
+      "Person struggles (lonely, directionless, fragile)",
+      "Discovers systemic explanations (technology, economy, culture did this)",
+      "Feels validated — 'it's not my fault'",
+      "Relief from shame, but no inner change occurs",
+      "Still struggling (because understanding is not capacity)",
+      "Seeks more explanation, more frameworks, more validation",
+      "Increasingly sophisticated understanding, no more strength",
+      "Comfort in diagnosis becomes resistance to the discomfort of change"
+    ],
+    "involvedCauses": ["cause-overprotection", "cause-self-esteem-movement", "cause-dopamine-dysregulation"],
+    "relatedInsights": ["insight-knowledge-not-strength", "insight-missing-pillar"],
+    "visualHint": "person reading a map while standing still — the map gets more detailed but they never move"
+  },
+  {
+    "id": "pattern-intergenerational-degradation",
+    "title": "The Weakening Spiral Across Generations",
+    "description": "A civilizational feedback loop operating on a 20-30 year cycle. The system neglects mental development, produces undeveloped people, who become the next generation's parents, educators, and system-designers — building systems that further neglect what they themselves never received. Each cycle starts from a lower baseline.",
+    "loop": [
+      "Institutions neglect mental/character development (education focuses on intellect, religion declines, family weakens)",
+      "Produces a generation without inner strength — informed but not formed",
+      "That generation becomes parents who cannot transmit what they never received",
+      "They also become educators, leaders, and system-designers",
+      "They build and maintain systems that further neglect mental development (because they don't know what's missing)",
+      "Next generation starts from an even lower baseline of inner capacity",
+      "Institutions weaken further (staffed by undeveloped people)",
+      "The system degrades because its human components degrade — and vice versa"
+    ],
+    "involvedCauses": ["cause-overprotection", "cause-self-esteem-movement", "cause-collapse-shared-narratives", "cause-institutional-trust-decline", "cause-age-segregation"],
+    "relatedInsights": ["insight-missing-pillar", "insight-friction-removal", "insight-knowledge-not-strength"],
+    "visualHint": "spiral staircase going downward — each landing is a generation, each step is lower than the last"
   }
 ]

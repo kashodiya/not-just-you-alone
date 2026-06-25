@@ -49,10 +49,9 @@ The tool connects your experience to causes (technological, economic, cultural, 
 
 Interactive visualizations of how symptoms, causes, patterns, and actions connect:
 
-- [Force Graph Explorer](apps/force-graph/) — see how everything connects
 - [Heatmap](apps/heatmap/) — spot density and clusters
 - [Radial Explorer](apps/radial-explorer/) — explore from any node outward
-- [Sankey Diagram](apps/sankey/) — trace flows between categories
+- [Insights Gallery](apps/insights-gallery/) — browse insights with illustrations
 
 ## Status
 
@@ -66,10 +65,9 @@ not-just-you-alone/
 ├── README.md               ← you are here
 ├── ARCHITECTURE.md         ← data architecture & technical decisions
 ├── apps/                   ← interactive visualizations
-│   ├── force-graph/
 │   ├── heatmap/
-│   ├── radial-explorer/
-│   └── sankey/
+│   ├── insights-gallery/
+│   └── radial-explorer/
 ├── research/
 │   ├── README.md           ← research index & processing status
 │   ├── sources.md          ← references, books, key thinkers
