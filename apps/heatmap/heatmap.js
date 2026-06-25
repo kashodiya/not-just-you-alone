@@ -305,6 +305,7 @@ function renderInsights(insightScores) {
 
     return `
       <div class="insight-tile" data-insight-id="${insight.id}">
+        <img src="../../assets/illustrations/${insight.id}.png" alt="${insight.title}" class="insight-illustration" onerror="this.style.display='none'" />
         <h4>${insight.title}<button class="speak-btn" aria-label="Listen to this" data-speak-id="${insight.id}">🔊</button></h4>
         <div class="insight-body">${primaryText}</div>
         ${conceptHtml}
